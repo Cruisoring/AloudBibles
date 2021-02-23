@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">AloudBibles</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+	<string name="cancel">Cancel</string>
+	<string name="open_file">Open File</string>
+	<string name="set_primary_work">Set Primary Work</string>
+	<string name="choose_the_primary_work">Choose the primary work:</string>
+	<string name="enable_tts_for_primary_work">Enable TTS for primary work</string>
+	<string name="choose_tts">Choose TTS:</string>
+	<string name="set_rate">"Set rate: "</string>
+	<string name="set_pitch">Set Pitch:</string>
+	<string name="set_secondar_work">Set Secondar Work</string>
+	<string name="choose_the_secondary_work">Choose the secondary work:</string>
+	<string name="enable_tts_for_secondary_work">Enable TTS for secondary work</string>
+	<string name="confirm">Confirm</string>
+	<string name="loading">Click to show the content ...</string>
+	<string name="logo">logo</string>
+	<string name="list_books">List Books</string>
+	<string name="remove_the_work">Remove the work</string>
+	<string name="language">Language:</string>
+	<string name="title">Title:</string>
+	<string name="version">Version:</string>
+	<string name="summary">Summary:</string>
+	<string name="description">Description:</string>
+	<string name="summary_format" formatted="false">%d Books, %d Chapters, %d Verses</string>
+	<string name="confirm_work_removal">Confirm removal</string>
+	<string name="confirm_removal">Are you sure to delete </string>
+	<string name="preference">Preference</string>
+	<string name="manage">Manage bibles</string>
+	<string name="download">Download</string>
+    <string name="refresh">"Refresh"</string>
+	<string name="choose_speak_mode">Speak Mode:</string>
+	<string name="no_tts_warning">No valid Text-to-speech Engine configured!</string>
+	<string name="import_file">Import local file</string>
+	<string name="about">about</string>
+	<string name="bibles">bibles</string>
+	<string name="gestures">gestures</string>
+	<string name="voices">voices</string>
+	<string name="help">Help</string>
+	<string name="bible_information">Bible Information</string>
+	<string name="download_confirmation">Download confirmation</string>
+	<string name="build">Build</string>
+	<string name="data_size">Data size</string>
+	<string name="content">Content</string>
+	<string name="books">Books</string>
+	<string name="chapters">Chapters</string>
+	<string name="verses">Verses</string>
+	<string name="confirm_download">Are you going to download</string>
+	<string name="download_cancelled_format">Download of %s is cancelled.</string>
+	<string name="extracting">Extracting file of </string>
+</resources>

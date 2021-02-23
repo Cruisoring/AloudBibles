@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<declare-styleable name="EasyTableLayout">
+		<!-- Default cell style -->
+		<attr name="cellViewStyle" format="reference" />
+		<!-- Default column count, 0 means automatic setting -->
+		<attr name="columnCount" format="integer" />
+	</declare-styleable>
+	
+	<declare-styleable name="NavigatorBar">
+		<attr name="useNames" format="enum">
+			<enum name="fullNameCurrent" value="0" />
+			<enum name="fullNameAll" value="1"/>
+			<enum name="abbreviationAll" value="2" />
+		</attr>
+	</declare-styleable>
+
+</resources>

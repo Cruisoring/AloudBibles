@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"Langsomst"</item>
+        <item>" Langsommere"</item>
+        <item>"   Langsom"</item>
+        <item>" Normal"</item>
+        <item>"   Hurtig"</item>
+        <item>" Hurtigere"</item>
+        <item>"Hurtigste"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"Laveste"</item>
+        <item>" Lavere"</item>
+        <item>"   Lav"</item>
+        <item>"Normal"</item>
+        <item>"  Høj"</item>
+        <item>"Højere"</item>
+        <item>"Højeste"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Aldrig"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Straks"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Features:"</item>
+		<item>"Forfatter:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles kan vise en eller to bibler på over 20 sprog på samme tid. Med TTS-motorer udstyret, kan du høre indholdet af to sprog på overalt uden downloade ethvert medie længere. Med en effektiv datalagring, det reagerer ekstremt hurtigt til dine multi-fingerbevægelser."</item>
+		<item>"&lt;u&gt; 1,1 (2013_06):. &lt;/ u&gt; &lt;br/&gt; * Midlertidig løsning for telefoner uden hardware MENU knap ved omfatter 4 billede knapper på hovedvisningen &lt;br/&gt; &lt;u&gt; 1,0 (2013_05) : &lt;/ u&gt; &lt;br/&gt; * På de fleste 2 valgbare bibler vises i omvendt rækkefølge, br * På de fleste 2 TTS aktiveret for udvalgte bibler, &lt;br/&gt; * Simple gestus at støtte tiltag som zoom-in/out , Page-down/up, næste / forrige kapitel / bog og osv. &lt;br/&gt; * Random tilgængelig datalagring for at muliggøre hurtig reaktion og lav hukommelse footprint, &lt;br/&gt; * Basic version download &amp; management."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William JIANG &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"Kilde af bibler:"</item>
+        <item>"Understøttede sprog:"</item>
+        <item>"Hent bibler:"</item>
+        <item>"Import bibler:"</item>
+		<item>"Administrer bibler:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"Dataene i AloudBibles indsamles fra tekstfiler på internettet og Osis filer, der findes i Zefania projekt."</item>
+        <item>"Du kan downloade bibler af følgende sprog: &lt;br/&gt; arabisk (العربية), Aserbajdsjansk (Aserbajdsjansk), bulgarsk (български), tjekkisk (čeština), tysk (Deutsch) Græsk (Ελληνικά) English (engelsk), Spansk (español ), finsk (suomi), fransk (français), hebraisk (עברית), ungarsk (Magyar), italiensk (italiano), koreansk (한국어), Latin (Latin), Maori (maori) Dutch (Nederlands), filippinske Language ( Filippinske Language), portugisisk (português), rumænsk (Română), russisk (русский) albansk (albansk), svensk (Svenska), Thai (ไทย) Tagalog (tagalog), vietnamesisk (Tiếng Việt), kinesisk (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) Tryk på knappen MENU, &lt;br/&gt; 2) Klik på \"Download\", &lt;br/&gt; 3) Tryk på \"+\" knappen på højre side af den specifikke version, &lt;br/&gt; 4) Klik på \"Bekræft\" af dialogen til at starte; &lt;br/&gt; 5) Du kan annullere længsel download-opgave ved at klikke på knappen \"-\"."</item>
+		<item>"1) Besøg &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt; for at downloade zippede versioner &lt;br/&gt; 2) gemme den downloadede zip-filer til en mappe på din sdcard, &lt;br/&gt; 3) Tryk på knappen MENU, &lt;br/&gt; 4) Klik på \"Administrer bibler\" &lt;br/&gt; 5) Tryk på \"Importer lokal fil\" under vinduet &lt;br / &gt; 6) Vælg zip-filen fra din sdcard."</item>
+		<item>"1) Tryk på knappen MENU, &lt;br/&gt; 2) Klik på \"Preference\" &lt;br/&gt; 3) Klik på den første drop-down listen og vælg den primære arbejde &lt;br/&gt; 4) Eventuelt kan du tjekke \"Vælg den sekundære arbejde \". og vælg den sekundære ene til at vise, eller, kan du fjerne markeringen af ​​det til at vise kun én arbejde &lt;br/&gt; 5) Endelig skal du klikke på undermost\" Bekræft \"for at gøre de valg træder i kraft."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"Til bund / top på siden:"</item>
+        <item>"Zoom ind / ud:"</item>
+        <item>"Til næste / forrige bog / kapitel:"</item>
+		<item>"Side ned / op:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"To fingre rører screean, stryge både ned / op til bunden / toppen af ​​siden hhv."</item>
+        <item>"Med to fingre rører på skærmen, flytte dem towarding / afgående ville resultere i et fald skriftstørrelse eller øge henholdsvis."</item>
+		<item>"Når indekset af en bog vises, swipe-right/left fører til forrige / næste bog respctively, når indholdet af et kapitel er set, swipe-right/left resultater i forrige / næste kapitel."</item>
+		<item>"For at slå side ned / op, bruge en finger til at knalde nedad / opad hhv."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Start / stop læsning:"</item>
+        <item>"TTS indstilling:"</item>
+        <item>"Få TTS-motorer:"</item>
+        <item>"Læsning adfærd:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Åbn kapitel og klik på vers at begynde at tale, re-klik på samme vers (fremhævet én) resulterer i stop."</item>
+        <item>". 1) Du er nødt til at have passende TTS (tekst-til-tale) motorer &lt;br/&gt; 2) MENU -&gt; præference: Check \"Aktiver TTS for ...\" under det arbejde, du har valgt, &lt;br/&gt; 3) Klik på spinner højre for \"Vælg TTS\", og vælg den rigtige motor ved navn. (Bemærk: Sørg for at motoren er suport sproget på arbejde forbundet) \ n4) Der kan maksimalt to motorer aktiveres, hvis du har aktivere den sekundære arbejde."</item>
+		<item>"1) Søgning \"Google TTS\", og installere det for at gøre det muligt for engelsk, Frech, tysk, spansk og italiensk, &lt;br/&gt; 2) Ved at søge \"IVONA\" eller \"SVOX\", kan du finde nogle motorer primært til vestlige sprog; &lt;br /&gt; 3) For Sumsang brugere, ved at søge \"Sumsang TTS\", du kan finde APK til at installere for at støtte koreansk, japansk og kinesisk, &lt;br/&gt; 4) kinesiske brugere kan søge \"Xunfei tts\" for at få APK at støtte kinesisk og engelsk. "</item>
+		<item>"MENU-\"Preference\": Klik på spinner højre for \"Tal Mode\" for at indstille TTS tjeneste mode &lt;br/&gt; 1) \"Aldrig\" resulterer i kontinuerlig læsning af indhold, &lt;br/&gt; 2) \"EndOfBook\".: TTS vil stoppe ved udgangen af ​​en bog, &lt;br/&gt; 3) \"EndOfChapter\": TTS vil stoppe ved udgangen af ​​et kapitel; &lt;br/&gt; 4) \"Straks\": TTS vil stoppe efter at have læst den udvalgte . vers &lt;br/&gt; &lt;b&gt; BEMÆRK:. når to TTS motorer er valgt, vil de læse alternativt &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

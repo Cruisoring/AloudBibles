@@ -1,0 +1,47 @@
+<resources>
+  <string name="previous">Vorige</string>
+  <string name="next">Volgende</string>
+  <string name="cancel">Annuleren</string>
+  <string name="open_file">Bestand openen</string>
+  <string name="set_primary_work">Primaire werk instellen</string>
+  <string name="choose_the_primary_work">Kies de primaire werkzaamheden:</string>
+  <string name="enable_tts_for_primary_work">TTS inschakelen voor primaire werk</string>
+  <string name="choose_tts">Kies TTS:</string>
+  <string name="set_rate">"Set tarief:"</string>
+  <string name="set_pitch">Toonhoogte instellen</string>
+  <string name="set_secondar_work">Instellen Secondar werk</string>
+  <string name="choose_the_secondary_work">Kies de secundaire werk:</string>
+  <string name="enable_tts_for_secondary_work">TTS inschakelen voor secundaire werk</string>
+  <string name="confirm">Bevestigen</string>
+  <string name="loading">Klik om te tonen van de inhoud...</string>
+  <string name="list_books">Lijst boeken</string>
+  <string name="remove_the_work">Verwijderen van het werk</string>
+  <string name="language">Taal:</string>
+  <string name="title">Titel:</string>
+  <string name="version">Versie:</string>
+  <string name="summary">Samenvatting:</string>
+  <string name="description">Beschrijving:</string>
+  <string name="summary_format" formatted="false">%d boeken, %d hoofdstukken, %d verzen</string>
+  <string name="confirm_work_removal">Verwijdering bevestigen</string>
+  <string name="confirm_removal">Bent u zeker om te verwijderen</string>
+  <string name="preference">Voorkeur</string>
+  <string name="manage">Bijbels beheren</string>
+  <string name="choose_speak_mode">Spreken modus:</string>
+  <string name="no_tts_warning">Geen geldige Text-to-speech Engine geconfigureerd!</string>
+  <string name="import_file">Het lokale bestand importeren</string>
+  <string name="about">over</string>
+  <string name="bibles">Bijbels</string>
+  <string name="gestures">gebaren</string>
+  <string name="voices">stemmen</string>
+  <string name="bible_information">Bijbel informatie</string>
+  <string name="download_confirmation">Bevestiging downloaden</string>
+  <string name="build">Bouwen</string>
+  <string name="data_size">Gegevensgrootte</string>
+  <string name="content">Inhoud</string>
+  <string name="books">Boeken</string>
+  <string name="chapters">Hoofdstukken</string>
+  <string name="verses">Verzen</string>
+  <string name="confirm_download">Gaat u downloaden</string>
+  <string name="download_cancelled_format">Download van %s is geannuleerd.</string>
+  <string name="extracting">Uitpakkend bestand van</string>
+</resources>

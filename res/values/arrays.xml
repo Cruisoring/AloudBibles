@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>Slowest</item>
+        <item> Slower</item>
+        <item>   Slow</item>
+        <item> Normal</item>
+        <item>   Fast</item>
+        <item> Faster</item>
+        <item>Fastest</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>Lowest</item>
+        <item> Lower</item>
+        <item>   Low</item>
+        <item>Normal</item>
+        <item>  High</item>
+        <item>Higher</item>
+        <item>Highest</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>Never</item>
+        <item>EndOfBook</item>
+        <item>EndOfChapter</item>
+        <item>Immediately</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item >AloudBibles:</item>
+        <item >Features:</item>
+		<item>Author:</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item >AloudBibles can display one or two bibles of over 20 languages at the same time. With TTS engines equiped, you can hear the content of two languages at anywhere without download any media any longer. With efficient data storage, it responds extremely quick to your multi-finger gestures.</item>
+		<item>&lt;u&gt;1.1 (2013_06): &lt;/u&gt;&lt;br/&gt;* Temporary solution for handsets without hardware MENU button by include 4 image buttons on the main view.&lt;br/&gt;&lt;br/&gt;&lt;u&gt;1.0 (2013_05): &lt;/u&gt;&lt;br/&gt;* At most 2 selectable bibles displayed in verse order;&lt;br/&gt;* At most 2 TTS enabled for selected bibles;&lt;br/&gt;* Simple gestures to support actions like Zoom-in/out, Page-down/up, Next/Previous-chapter/book and etc.;&lt;br/&gt;* Random accessible data storage to enable quick response and low memory footprint;&lt;br/&gt;* Basic version download&amp;management.</item>
+		<item>&lt;a href=&quot;mailto:aloudbibles@gmail.com?Subject=AloudBibles&quot;&gt;William JIANG&lt;/a&gt;</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>Source of bibles:</item>
+        <item>Supported languages:</item>
+        <item >Download bibles:</item>
+        <item >Import bibles:</item>
+		<item>Manage bibles:</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>The data of AloudBibles is collected from text files on the Internet and OSIS files found in Zefania project.</item>
+        <item>You can download bibles of following languages:<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item >1) Press the MENU button;&lt;br/&gt;2) Click &quot;Download&quot;;&lt;br/&gt;3) Press &quot;+&quot; button on the right side of the specific version;&lt;br/&gt;4) Click &quot;Confirm&quot; of the dialog to start; &lt;br/&gt;5) You can cancel the onging download task by clicking the &quot;-&quot; button.</item>
+		<item>1) Visiting &lt;a href=&quot;https://sourceforge.net/projects/aloudbible/files/?source=navbar&quot;&gt;SourceForge&lt;/a&gt; to download the zipped versions;&lt;br/&gt;2)Save the downloaded zip files to any folder of your sdcard;&lt;br/&gt;3)Press the MENU button;&lt;br/&gt;4) Click &quot;Manage bibles&quot;;&lt;br/&gt;5)Press the &quot;Import local file&quot; under the window;&lt;br/&gt;6) Choose the zip file from your sdcard.</item>
+		<item>1) Press the MENU button;&lt;br/&gt;2) Click &quot;Preference&quot;;&lt;br/&gt;3) Click the first drop-down list and select the primary work;&lt;br/&gt;4) Optionally, you can check &quot;Choose the secondary work:&quot; and select the secondary one to display; or, you can uncheck it to display only one work.&lt;br/&gt;5) Finally, click the undermost &quot;Confirm&quot; to make the choices come into force.</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>To Bottom/Top of the page:</item>
+        <item >Zoom In/Out:</item>
+        <item >To next/previous book/chapter:</item>
+		<item>Page down/up:</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>Two fingers touching the screean, swipe both down/up to the bottom/top of the page respectively.</item>
+        <item>With two fingers touching on the screen, moving them towarding/departing would result in the font size decrease or increase respectively.</item>
+		<item>When index of a book is shown, swipe-right/left leads to previous/next book respctively; when content of a chapter is viewed, swipe-right/left results in previous/next chapter.</item>
+		<item>To turn page down/up, use one finger to swipe downward/upward respectively.</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>Start/stop reading:</item>
+        <item >TTS setting:</item>
+        <item >Get TTS engines:</item>
+        <item >Reading behavior:</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>Open the chapter and click the verse to start speaking, re-click of the SAME verse (highlighted one) results in stop.</item>
+        <item >1) You need to have appropriate TTS(Text-to-speech) engines installed.&lt;br/&gt;2)MENU -&gt; Preference: Check &quot;Enable TTS for...&quot; under the work you selected;&lt;br/&gt;3)Click the spinner right of &quot;Choose TTS&quot; and select the right engine by name. (Notice: make sure the engine does suport the language of the work associated);\n4) There can be maximum two engines activated if you have enable the secondary work.</item>
+		<item>1) Searching &quot;Google TTS&quot; and install it to enable English, Frech, German, Spanish and Italian;&lt;br/&gt;2) By searching &quot;IVONA&quot; or &quot;SVOX&quot;, you can find some engines mainly for western languages;&lt;br/&gt;3) For Sumsang users, by searching &quot;Sumsang tts&quot;, you can find APK to install to support Korean, Japanese and Chinese;&lt;br/&gt;4) Chinese users could search &quot;Xunfei tts&quot; to get the APK to support Chinese and English. </item>
+		<item >MENU-&quot;Preference&quot;: click the spinner right of the &quot;Speak Mode&quot; to set the TTS service fashion.&lt;br/&gt;1)&quot;Never&quot; results in continuous reading of the content;&lt;br/&gt;2) &quot;EndOfBook&quot;: the TTS will stop by the end of a book;&lt;br/&gt;3) &quot;EndOfChapter&quot;: the TTS will stop by the end of a chapter;&lt;br/&gt;4) &quot;Immediately&quot;: the TTS will stop after reading the selected verse.&lt;br/&gt;&lt;b&gt;NOTICE: when two TTS engines are selected, they will read alternatively.&lt;/b&gt;</item>
+	</string-array>
+    
+</resources>

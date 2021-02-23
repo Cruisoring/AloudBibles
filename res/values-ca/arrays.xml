@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"El més lent"</item>
+        <item>" Més lent"</item>
+        <item>"   A poc a poc"</item>
+        <item>" Normal"</item>
+        <item>"   Ràpid"</item>
+        <item>" Més ràpid"</item>
+        <item>"Fastest"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"Menor"</item>
+        <item>" Inferior"</item>
+        <item>"   Sota"</item>
+        <item>"Normal"</item>
+        <item>"  Alt"</item>
+        <item>"Major"</item>
+        <item>"La més alta"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Mai"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Immediatament"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Característiques:"</item>
+		<item>"Autor:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles poden mostrar un o dos bíblies de més de 20 idiomes a la vegada. Amb els motors TTS equipades, es pot escoltar el contingut de les dues llengües en qualsevol lloc sense descarregar qualsevol mitjà de comunicació més. Amb l'emmagatzematge de dades eficient, respon molt ràpid als seus gestos multi-finger."</item>
+		<item>"&lt;u&gt; 1,1 (2013_06):. &lt;/ u&gt; &lt;br/&gt; * solució temporal per als telèfons sense botó de maquinari MENÚ inclou 4 botons d'imatge a la vista principal &lt;br/&gt; &lt;u&gt; 1,0 (2013_05) : &lt;/ u&gt; &lt;br/&gt; * En la majoria dels 2 bíblies seleccionables que es mostren en ordre invers; &lt;br/&gt; * En la majoria dels 2 TTS habilitats per bíblies seleccionats; &lt;br/&gt; * Gestos senzills per donar suport a accions com zoom-in/out , Page-down/up anterior / següent capítol / llibre i etc; &lt;br/&gt; * Random emmagatzematge de dades accessible per permetre una resposta ràpida i de baix consum de memòria; * Versió bàsica &lt;br/&gt; descàrrega i gestió."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William Jiang &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"Font de Bíblies:"</item>
+        <item>"Idiomes compatibles:"</item>
+        <item>"Descàrrega bíblies:"</item>
+        <item>"Bíblies d'importació:"</item>
+		<item>"Gestioni bíblies:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"Les dades de AloudBibles es recull a partir d'arxius de text en els arxius d'Internet i OSIS es troben en projecte Zefania."</item>
+        <item>"Podeu descarregar les bíblies dels següents idiomes: &lt;br/&gt; Àrab (العربية), Azerbaidjan (Azerbaidjan), Búlgar (български), Txec (Čeština), Alemany (Deutsch), Grec (Ελληνικά), Anglès (Anglès), Castellà (espanyol ), Finès (Suomi), Francès (Français), Hebreu (עברית), Hongarès (magyar), Italià (Italià), Corea (한국어), Amèrica (Amèrica), els maoris (Maori), holandès (Nederlands), Filipines Idioma ( Philippine Language), Portuguès (Português), Romanès (Română), Rus (русский), Albanès (Albània), Suec (Svenska), tailandès (ไทย), tagal (Tagalog), vietnamita (Tiếng Việt), Xinès (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) Premi el botó MENU; &lt;br/&gt; 2) Feu clic a \"Descarregar\"; &lt;br/&gt; 3) Premi el botó \"+\" a la part dreta de la versió específica; &lt;br/&gt; 4) Feu clic a \"Confirmar\" del diàleg per iniciar; &lt;br/&gt; 5) Vostè pot cancel · lar la tasca de descàrrega onging fent clic al botó \"-\"."</item>
+		<item>"1) Visitar &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt; per descarregar les versions comprimides; &lt;br/&gt; 2) Deseu els arxius zip descarregats en qualsevol carpeta del seu sdcard; &lt;br/&gt; 3) Premi el botó MENU; &lt;br/&gt; 4) Feu clic a \"Administrar bíblies\"; &lt;br/&gt; 5) Premeu el botó \"Importar fitxers local\" sota la finestra; &lt;br / &gt; 6) Trieu el fitxer zip de la seva sdcard."</item>
+		<item>"1) Premi el botó MENU; &lt;br/&gt; 2) Feu clic a \"Preferències\"; &lt;br/&gt; 3) Feu clic a la primera llista desplegable i seleccioneu el treball principal; &lt;br/&gt; 4) Opcionalment, es pot comprovar \"Triar l'obra secundària: \". i seleccioneu la secundària per mostrar, o bé, pot desactivar per mostrar una sola obra &lt;br/&gt; 5) Finalment, feu clic al humiliats\" Confirmar \"per prendre les decisions que entrin en vigor."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"Per a la part inferior / superior de la pàgina:"</item>
+        <item>"Zoom In / Out:"</item>
+        <item>"Al següent / anterior llibre / capítol:"</item>
+		<item>"Pàgina avall / amunt:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"Dos dits que toquen la screean, lliscar tant dalt / baix a la part inferior / superior de la pàgina, respectivament."</item>
+        <item>"Amb dos dits tocant a la pantalla, movent towarding / sortida donaria lloc a la disminució de mida de la font o augmentar respectivament."</item>
+		<item>"Quan es mostra l'índex d'un llibre, swipe-right/left condueix al llibre anterior / següent respctively, quan el contingut d'un capítol és vist, resultats swipe-right/left en el capítol anterior / següent."</item>
+		<item>"Per activar la pàgina amunt / avall, utilitzeu un dit per lliscar cap avall / cap amunt respectivament."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Iniciar / aturar la lectura:"</item>
+        <item>"Ajust de TTS:"</item>
+        <item>"Obtingui motors TTS:"</item>
+        <item>"La lectura de la conducta:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Obriu el capítol i feu clic en el vers per començar a parlar, torneu a fer clic al mateix verset (ressaltat) es tradueix en una parada."</item>
+        <item>". 1) Cal tenir TTS apropiats () motors de text a veu instal · lats &lt;br/&gt; 2) MENU -&gt; Preferències: Marqueu \"Enable TTS per ...\" en el marc del treball que ha seleccionat; &lt;br/&gt; 3) Feu clic al dret spinner de \"Choose TTS\" i seleccionar el motor dret pel seu nom. (Avís: assegureu-vos que el motor no soporte l'idioma del treball associat); \ n4) No pot haver-hi un màxim de dos motors activats si ha de la feina secundari."</item>
+		<item>"1) Busca \"Google TTS\" i instal · lar per permetre Anglès, Frech, alemany, espanyol i italià; &lt;br/&gt; 2) Mitjançant la cerca \"Ivon\" o \"SVOX\", es poden trobar alguns motors, principalment per als idiomes occidentals; &lt;br /&gt; 3) Per als usuaris Sumsang, mitjançant la recerca \"tts Sumsang\", vostè pot trobar APK instal · lar per donar suport coreà, japonès i xinès; &lt;br/&gt; 4) els usuaris xinesos podrien buscar \"Xunfei tts\" per obtenir el APK per donar suport Xinès i Anglès. "</item>
+		<item>"MENÚ \"Preferència\": feu clic al dret spinner del &lt;br/&gt; 1) \"mai\" resultats en lectura contínua del contingut de \"Mode Speak\" per establir la manera del servei de TTS, &lt;br/&gt; 2) \"EndOfBook\".: el TTS s'aturarà al final d'un llibre; &lt;br/&gt; 3) \"EndOfChapter\": el TTS s'aturaran pel final d'un capítol, &lt;br/&gt; 4) \"Immediatament\": el TTS s'aturarà després de llegir el seleccionat . vers &lt;br/&gt; &lt;b&gt; AVÍS:. quan se seleccionen dos motors TTS, que llegiran, alternativament, &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

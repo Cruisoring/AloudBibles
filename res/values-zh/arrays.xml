@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"最慢"</item>
+        <item>"慢速"</item>
+        <item>"稍慢"</item>
+        <item>"正常"</item>
+        <item>"稍快"</item>
+        <item>"快速"</item>
+        <item>"最快"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"最低"</item>
+        <item>"低音"</item>
+        <item>"稍低"</item>
+        <item>"正常"</item>
+        <item>"稍高"</item>
+        <item>"高音"</item>
+        <item>"最高"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"不停地朗读"</item>
+        <item>"读完本卷"</item>
+        <item>"读完本章"</item>
+        <item>"读完本节"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>&quot;爱声圣经：&quot;</item>
+        <item>&quot;功能：&quot;</item>
+		<item>&quot;作者：&quot;</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>&quot;爱声圣经是一款免费的掌上圣经浏览软件，安装版本内置了简体中文和合本(zh)和New International Version(en)并且可选择安装20多种语言，50多个版本的圣经文本。&lt;br/&gt;该软件采用随机存取技术，使得您可以快速打开圣经的任意章节，并可同时显示并对比任意两种版本的圣经；并且快捷的手势动作帮助您轻松切换页面及设置文字大小。&lt;br/&gt;全面支持语音引擎：无需下载庞大的音频文件，您就可以随时随地，即便屏幕关闭，聆听圣经的内容。安装高质量的语音引擎以后，它也可成为您学习外语的帮手，配合母语的圣经章节将为您提供无尽的外语学习素材。&quot;</item>
+		<item>&quot;&lt;u&gt; 1.2（2013_11）：&lt;/ u&gt;&lt;br/&gt; * 更正数据库空引用导致的BUG。&lt;br/&gt; * 更正章节更新并返回上级时的不匹配。 &lt;br/&gt;&lt;br/&gt;&lt;u&gt; 1.1（2013_06）：&lt;/ u&gt;&lt;br/&gt; * 针对无硬件菜单键的终端，临时在初始页面添加四个图形按钮。&lt;br/&gt;&lt;br/&gt;&lt;u&gt; 1.0（2013_05）：&lt;/ u&gt;&lt;br/&gt; * 任意两种语言可选版本圣经的交替显示；&lt;br/&gt; * 同时启用最多两种语言引擎朗读选定的圣经内容；&lt;br/&gt; * 简单手势动作支持相邻章节选择，文本放大缩小等设置；&lt;br/&gt;* 随机访问的数据存储和低内存占用，确保快速响应；&lt;br/&gt;* 基本的版本下载及管理。&quot;</item>
+		<item>&quot;&lt;a href=\&quot;mailto:aloudbibles@gmail.com?Subject=AloudBibles\&quot;&gt;William JIANG&lt;/ a&gt;&quot;</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"圣经文本:"</item>
+        <item>"支持语言:"</item>
+        <item>"下载圣经："</item>
+        <item>"导入圣经："</item>
+		<item>&quot;管理圣经版本&quot;</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"来自于互联网上公开的文本文件，以及Zefania项目中的OSIS格式文件。"</item>
+        <item>&quot;目前您可以安装以下语言的圣经: 阿拉伯文(العربية), 阿塞拜疆文(Azerbaijani), 保加利亚文(български), 捷克文(čeština), 德文(Deutsch), 希腊文(Ελληνικά), 英文(English), 西班牙文(español), 芬兰文(suomi), 法文(français), 希伯来文(עברית), 匈牙利文(magyar), 意大利文(italiano), 韩文(한국어), 拉丁文(Latin), 毛利文(Maori), 荷兰文(Nederlands), 其他菲律宾语系(Philippine Language), 葡萄牙文(português), 罗马尼亚文(română), 俄文(русский), 阿尔巴尼亚文(Albanian), 瑞典文(svenska), 泰文(ไทย), 塔加洛语(Tagalog), 越南文(Tiếng Việt), 中文(中文).&quot;</item>
+        <item>"1）按MENU按钮；&lt;br/&gt;2）点击“下载”；&lt;br/&gt;3）按选定版本右侧的“+”按钮；&lt;br/&gt;4）点击“确认”对话框来启动下载；&lt;br/&gt;5）下载过程中，可单击“ - ”按钮以取消对应的下载任务。"</item>
+		<item>"1）访问&lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge上&lt;/ a&gt;以下载压缩的版本数据；&lt;br/&gt;2）保存下载的数据文件至SD卡的任何文件夹；&lt;br/&gt;3）按MENU按钮；&lt;br/&gt;4）点击“管理圣经”；&lt;br/&gt;5）点击窗口下方的“导入本地文件”按钮；&lt;br / &gt;6）选择之前存放的数据文件以导入。"</item>
+		<item>"1）按MENU按钮;&lt;br/&gt;2）点击“偏好”；&lt;br/&gt;3）点击第一个下拉列表中，选择主版本；&lt;br/&gt;4）您可以选中“选择圣经副版本“并选择可显示的第二本圣经；或者，你可以取消该选项以显示唯一的圣经版本。&lt;br/&gt;5）最后，点击最下面的”确认“按钮使选择生效。"</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"直接到底部/顶部："</item>
+        <item>"放大/缩小："</item>
+        <item>"下/上 书卷/章节："</item>
+		<item>"向下/向上翻页："</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+		<item>"用两个手指向下/向上滑动将直接显示当前章节的最末/最开始内容。"</item>
+        <item>"用两个手指向内并拢将缩小所有页面的字体大小，反之两个手指分开将放大字体。"</item>
+		<item>"在打开书卷并显示其章节列表时，向右及向左滑动屏幕会分别显示上一书卷/下一书卷的章节；在页面显示圣经文本时，向右及向左滑动屏幕会分别显示上一章/下一章的内容。"</item>
+		<item>"一个手指向下及向上滑动分别对应向下及向上翻页。"</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"启动/停止朗读："</item>
+        <item>"语言引擎设置："</item>
+        <item>"获取语音引擎："</item>
+        <item>"朗读模式："</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"阅览章节内容，点击条目即开始朗读该节，再次点击高亮的当前文本将停止朗读。按照朗读模式的设置，语言引擎将顺次朗读后续内容。"</item>
+        <item>"1）你需要有安装合适的TTS（文本到语音）引擎。&lt;br/&gt; 2）点击菜单，选择“偏好”：在您选中的圣经版本下选择”启用语言服务“&lt;br/&gt;3）点击右边的“选择TTS”并选择合适的引擎名称。 （注：了解并确保该引擎支持对应圣经版本的语言）；&lt;br/&gt;4）最多可同时启用两个语音引擎。"</item>
+		<item>"1）搜索“谷歌TTS”，安装后即可支持英语，法语，德语，西班牙语和意大利语；&lt;br/&gt; 2）搜索“IVONA”或“SVOX”，您应该可以找到世界主要语言的安装包；&lt;br/&gt;3）三星手机的用户，通过搜索“SUMSANG TTS”可以找到相应APK安装以支持韩语，日语和中文的语音；&lt;br/&gt;4）中文用户可以搜索“讯飞TTS”并安装相应的APK以支持中国和英语。"</item>
+		<item>"点击菜单-“偏好”：选择“朗读模式”，设置语言引擎的停止条件。&lt;br/&gt; 1）“不停地朗读”使得语言引擎朗读到圣经最末书卷的结尾或者人工停止；&lt;br/&gt; 2）“读完本卷”： TTS将在书卷的最后一章读完后停止; &lt;br/&gt; 3）“读完本章”：TTS将读完本章的所有内容；&lt;br/&gt;4）“读完本节”：TTS仅朗读所选的语句。&lt;br/&gt; &lt;B&gt;注意：启用两个语言引擎时，他们将交替阅读各自的文本。&lt;/ B&gt;"</item>
+	</string-array>
+    
+</resources>

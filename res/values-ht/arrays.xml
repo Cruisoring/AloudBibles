@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"Plus"</item>
+        <item>" Pi dousman"</item>
+        <item>"   Ralanti"</item>
+        <item>" Nòmal"</item>
+        <item>"   Vit"</item>
+        <item>" Pi vit"</item>
+        <item>"Pi rapid"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"Pi ba"</item>
+        <item>" Pi ba"</item>
+        <item>"   Low"</item>
+        <item>"Nòmal"</item>
+        <item>"  Segondè"</item>
+        <item>"Ki pi wo"</item>
+        <item>"Pi wo"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Pa janm"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Menm lè a"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Features:"</item>
+		<item>"Author:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles ka montre youn oubyen de Bib la plis pase 20 lang an menm tan an. Avèk TTS motè ekipe, ou ka tande sa ki ekri nan de lang nan nenpòt kote san yo pa download nenpòt medya nenpòt ki dire pi lontan. Avèk efikas depo done, li reponn trè rapid nan jès milti-dwèt ou."</item>
+		<item>"&lt;u&gt; 1.1 (2013_06):. &lt;/ u&gt; &lt;br/&gt; * solisyon Tanporè pou appareils san yo pa bouton KAT pyès ki nan konpitè pa gen ladan yo 4 bouton imaj sou gade nan prensipal &lt;br/&gt; &lt;br/&gt; &lt;u&gt; 1.0 (2013_05) : &lt;/ u&gt; &lt;br/&gt; * Nan pi fò 2 Bib être parèt nan lòd vèsè; &lt;br/&gt; * Nan pi fò 2 TTS pèmèt pou chwazi Bib; &lt;br/&gt; * jès senp sipòte aksyon tankou Zoom-in/out , Page-down/up, Next / Previous-chapit / liv ak elatriye; &lt;br/&gt; * Random aksesib depo done yo ki ap pèmèt repons rapid ak anprint memwa ki ba; &lt;br/&gt; * Debaz vèsyon download &amp; administrasyon yo."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William Jiang &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"Sous nan Bib:"</item>
+        <item>"Sipò pou lang:"</item>
+        <item>"Download Bib:"</item>
+        <item>"Bib Import:"</item>
+		<item>"Jere Bib:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"Done yo nan AloudBibles se ranmase nan men fichye tèks sou entènèt la ak OSIS dosye yo te jwenn nan Zefania pwojè."</item>
+        <item>"Ou ka telechaje Bib nan lang sa yo: &lt;br/&gt; arab (العربية), Azerbaydjan (Azerbaydjan), Bulgarian (български), Czech (èeština), Alman (kreyòl), grèk (Ελληνικά), angle (angle), Panyòl (Español ), Finnish (Suomi), franse (Français), lang ebre (עברית), Ongwa a (Magyar), Italyen (Italiano), koreyen (한국어), Latin (Latin), maori (maori), Olandè (Nederlands), Filipin Lang ( Filipin Lang), Pòtigè (Português), Romanian (Română), Ris (русский), Albanyen (Albanyen), Swedish (Svenska), Thai (ไทย), Tagalog (Tagalog), Vyetnamyen (Tiếng Việt), Chinwa (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) Peze bouton meni an; &lt;br/&gt; 2) Klike sou \"Download\"; &lt;br/&gt; 3) Peze bouton \"+\" sou bò dwat nan vèsyon an espesifik; &lt;br/&gt; 4) Klike sou \"Konfime\" nan a dyalòg yo kòmanse; &lt;br/&gt; 5) Ou ka anile travay la download onging pa klike \"-\" bouton an."</item>
+		<item>"1) Vizite &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; soursforj &lt;/ a&gt; a download vèsyon yo konpresè; &lt;br/&gt; 2) Sove dosye yo postal telechaje nan nenpòt ki dosye nan sdcard ou; &lt;br/&gt; 3) Peze bouton meni an; &lt;br/&gt; 4) Klike sou \"Manage Bib\"; &lt;br/&gt; 5) Press \"Import dosye a lokal\" anba fenèt la; &lt;br / &gt; 6) Chwazi dosye a postal soti nan sdcard ou."</item>
+		<item>"1) Peze bouton meni an; &lt;br/&gt; 2) Klike sou \"Preferans\"; &lt;br/&gt; 3) Klike sou premye gout-desann lis la epi chwazi travay la prensipal; &lt;br/&gt; 4) Opsyonèlman, ou ka tcheke \"Chwazi travay la segondè: \". epi chwazi yon sèl la segondè yo montre, oswa, ou ka dezaktive l 'bay montre sèlman yon sèl travay &lt;br/&gt; 5) Finalman, klike sou undermost\" Konfime la di \"fè chwa ki genyen yo antre nan fòs."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"Jouk anba / Top of paj la:"</item>
+        <item>"Rale nan / soti:"</item>
+        <item>"Nan pwochen / anvan liv / Chapter:"</item>
+		<item>"Page desann / moute:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"De dwèt manyen screean a, glise tou de desann / jiska anba / tèt la nan paj la respektivman."</item>
+        <item>"Ak de dwèt manyen sou ekran an, k ap deplase yo towarding / disparu ta lakòz diminisyon a font size oswa ogmante respektivman."</item>
+		<item>"Lè yo montre endèks nan yon liv, swipe-right/left mennen nan liv anvan / pwochen respctively; lè se kontni nan yon chapit yo wè li, rezilta swipe-right/left nan chapit anvan / pwochen an."</item>
+		<item>"Yo vire paj desann / leve, sèvi ak yon sèl dwèt sou glise anba / anwo respektivman."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Kòmanse / sispann lekti:"</item>
+        <item>"Anviwònman TTS:"</item>
+        <item>"Jwenn TTS motè:"</item>
+        <item>"Konpòtman Lekti:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Louvri chapit la, epi klike vèsè nan kòmanse pale, re-klike sou nan vèsè a menm (make yon sèl) rezilta yo nan kanpe."</item>
+        <item>". 1) Ou bezwen gen TTS ki apwopriye (Text-a-pale) motè enstale &lt;br/&gt; 2) KAT -&gt; Preferans: Tcheke \"Pèmèt TTS pou ...\" anba travay ou chwazi a; &lt;br/&gt; 3) Klike sou bò dwat la lawoulèt nan \"Chwazi TTS\" epi chwazi motè a dwat pa non ou. (Avi: asire w ke motè a supor lang lan nan travay la ki asosye); \ N 4) Kapab genyen maksimòm de motè aktive si ou gen pèmèt travay la segondè."</item>
+		<item>"1) chache \"Google TTS\" ak enstale li yo ki ap pèmèt lang angle, Frech, Alman, Espayòl ak Italyen; &lt;br/&gt; 2) pa chache \"IVONA\" oswa \"SVOX\", ou ka jwenn kèk motè sitou pou lang lwès; &lt;br /&gt; 3) Pou Sumsang itilizatè yo, pa chache \"Sumsang TTS\", ou ka jwenn APK yo enstale yo sipòte Koreyen, Japonè ak Chinwa; &lt;br/&gt; 4) itilizatè Chinwa t 'kapab fè rechèch \"Xunfei TTS\" jwenn APK nan sipò Chinwa ak lang angle. "</item>
+		<item>"KAT-\"Preferans\": klike sou bò dwat la lawoulèt nan \"-Pale Mode\" yo mete alamòd nan sèvis TTS &lt;br/&gt; 1) \"Pa janm\" rezilta nan lekti kontinyèl nan kontni an; &lt;br/&gt; 2) \"EndOfBook\" la.: TTS yo ap sispann nan fen yon liv; &lt;br/&gt; 3) \"EndOfChapter\": TTS yo ap sispann nan fen yon chapit; &lt;br/&gt; 4) \"Menm lè a\": TTS yo ap sispann apre ou fin li chwazi a . vèsè &lt;br/&gt; &lt;b&gt; AVI:. lè de TTS motè yo ki chwazi ki yo, yo pral li altènativman &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

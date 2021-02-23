@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"آہستہ"</item>
+        <item>" سست"</item>
+        <item>"   آہستہ"</item>
+        <item>" عمومی"</item>
+        <item>"   فاسٹ"</item>
+        <item>" تیز"</item>
+        <item>"سب سے تیزی سے"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"سب سے کم"</item>
+        <item>" لوئر"</item>
+        <item>"   کم"</item>
+        <item>"عمومی"</item>
+        <item>"  ہائی"</item>
+        <item>"اعلی"</item>
+        <item>"سب سے زیادہ"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"کبھی نہیں"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"فوری طور پر"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"خصوصیات:"</item>
+		<item>"مصنف:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles ایک ہی وقت میں 20 سے زائد زبانوں میں سے ایک یا دو بائبل ظاہر کر سکتا ہے. TTS کے انجن equiped کے ساتھ، آپ کسی بھی میڈیا اب ڈاؤن لوڈ کے بغیر کہیں بھی میں دو زبانوں کے مواد کے سن سکتے ہیں. موثر ڈیٹا سٹوریج کے ساتھ، یہ آپ کی کثیر انگلی اشارہ کرنے کے لئے انتہائی فوری جواب."</item>
+		<item>"&lt;u&gt; 1.1 (2013_06):. &lt;/ U&gt; ایک &lt;br/&gt; * کی طرف سے ہارڈ ویئر مینو بٹن کے بغیر ہینڈ سیٹس کے لئے عارضی حل کے اہم نقطہ نظر پر 4 تصویر بٹن شامل &lt;br/&gt; ایک &lt;u&gt; 1.0 (2013_05) : &lt;/ U&gt; ایک &lt;br/&gt; * آیت کے حکم میں ظاہر 2 انتخاب Bibles کے سب سے زیادہ پر؛ منتخب Bibles کے لئے فعال سب سے زیادہ 2 TTS میں ایک &lt;br/&gt; *؛ Zoom-in/out طرح ایک &lt;br/&gt; * سادہ اشاروں کی حمایت کرنے کے اعمال ، Page-down/up، اگلا / پچھلا باب / کتاب اور وغیرہ، ایک &lt;br/&gt; * فوری ردعمل اور کم میموری کے زیر اثر چالو کرنے کے لئے بے ترتیب سے قابل رسائی ڈیٹا سٹوریج؛ &lt;br/&gt; ایک * بنیادی ورژن ڈاؤن لوڈ اور انتظام."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com؟Subject=AloudBibles\"&gt; ولیم جیانگ &lt;/ A&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"بائبل کے ماخذ:"</item>
+        <item>"سہولت زبانوں:"</item>
+        <item>"بائبل ڈاؤن لوڈ، اتارنا:"</item>
+        <item>"درآمد بائبل:"</item>
+		<item>"بائبل لڑکا:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"AloudBibles کے اعداد و شمار Zefania منصوبے میں پایا انٹرنیٹ اور OSIS فائلوں پر متن فائلوں سے جمع کیا جاتا ہے."</item>
+        <item>"آپ مندرجہ ذیل زبانوں میں Bibles کے ڈاؤن لوڈ، اتارنا کر سکتے ہیں: عربی &lt;br/&gt; ایک (العربية)، آذربائیجان (آذربائیجان)، بلغاری (български)، چیک (čeština)، جرمن (Deutsch کی)، یونانی (Ελληνικά)، انگریزی (انگریزی)، ہسپانوی (Español کی )، فننش (suomi)، فرانسیسی (اردو)، عبرانی (עברית)، ہنگیرین (ہنگیرین)،) اطالوی (اطالوی، کوریا (한국어)، لاطینی (لاطینی)، ماوری (ماوری)، ڈچ (Nederlands کی)، فلپائن زبان ( فلپائن زبان)، پرتگالی (پرتگالی)، رومانیہ (رومن)، روسی (русский)، البانی (البانی)، سویڈش (SVENSKA)، تھائی لینڈ (ไทย)، ٹیگا لوگ (ٹیگا لوگ)، ویتنامی (ویت tieng)، چینی (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) پریس مینو بٹن؛ ایک &lt;br/&gt; 2) \"ڈاؤن لوڈ\" پر کلک کریں، مخصوص ورژن کے دائیں جانب ایک &lt;br/&gt; 3) پریس \"+\" کے بٹن؛ &lt;br/&gt; ایک 4) کی \"توثیق\" پر کلک کریں \"-\" کے بٹن ایک &lt;br/&gt; 5) پر کلک کرکے آپ onging ڈاؤن لوڈ، اتارنا کے کام کو منسوخ کر سکتے ہیں، شروع کرنے کے لئے ڈائلاگ."</item>
+		<item>"1) &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/؟source=navbar\"&gt; SourceForge &lt;/ A&gt; زپ ورژن ڈاؤن لوڈ، اتارنا کا دورہ، ایک &lt;br/&gt; 2) ڈاؤن لوڈ زپ فائلوں کو محفوظ کریں ایک &lt;br/&gt; 3) پریس مینو بٹن؛ آپ SDCARD کی کسی بھی فولڈر میں ایک &lt;br/&gt; 4) پر کلک کریں \"بائبل لڑکا\" ایک &lt;br/&gt; 5) پریس ونڈو کے تحت \"درآمد مقامی فائل\"؛ &lt;BR / &gt; 6) آپ کے SDCARD سے زپ فائل کو منتخب کریں."</item>
+		<item>"1) پریس مینو بٹن؛ ایک &lt;br/&gt; 2) \"ترجیح\" پر کلک کریں، ایک &lt;br/&gt; 3) سب سے پہلے ڈراپ ڈاؤن فہرست پر کلک کریں اور بنیادی کام کو منتخب کریں؛ &lt;br/&gt; ایک 4) اختیاری، آپ کو \"انتخاب کریں چیک کر سکتے ہیں ثانوی کام، انتخاب نافذ العمل بنانے کے لئے کی تصدیق '\". اور ظاہر کرنے کے لئے ثانوی سے ایک منتخب کریں یا، آپ کو صرف ایک کام کو ظاہر کرنے کے لئے یہ نشان ہٹا دیں کر سکتے ہیں، ایک &lt;br/&gt; 5) آخر میں، نیچا کلک کریں\"."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"صفحے کے نیچے / اوپر کرنے کے لئے:"</item>
+        <item>"زوم میں / باہر:"</item>
+        <item>"اگلے / پچھلے کتاب / باب کرنے کے لئے:"</item>
+		<item>"صفحہ اوپر / نیچے:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"screean چھونے دو انگلیوں، نیچے / صفحہ کے سب سے نیچے / اوپر تک بالترتیب دونوں swipe کے."</item>
+        <item>"دو انگلیوں کے انہیں آگے بڑھا، سکرین پر چھونے کے ساتھ روانہ / towarding فونٹ سائز گھٹائیے کے نتیجے میں یا بالترتیب اضافہ ہوگا."</item>
+		<item>"ایک کتاب کے انڈیکس میں دکھایا گیا ہے جب، swipe-right/left respctively اگلا / پچھلا کتاب کی طرف جاتا ہے ہے، ایک باب کے مواد دیکھا جاتا ہے جب، swipe-right/left نتائج اگلے / پچھلے باب میں."</item>
+		<item>"صفحہ اوپر / نیچے تبدیل کرنے، بالترتیب کمی / اضافہ swipe کرنے کے لئے ایک انگلی کا استعمال کرتے ہیں."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"پڑھنے بند کرو / شروع:"</item>
+        <item>"TTS ترتیب:"</item>
+        <item>"TTS کے انجن حاصل کریں:"</item>
+        <item>"رویے پڑھنا:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"باب کھولیں اور بات شروع کرنے کے لئے آیت پر کلک کریں، ایک ہی آیت کی دوبارہ کلک سٹاپ میں نتائج (ایک روشنی ڈالی)."</item>
+        <item>"1) آپ کو نصب مناسب TTS (متن کی تقریر کو) کے انجن کی ضرورت ہے ایک &lt;br/&gt; 2) مینو -&gt; کی ترجیح \"کے لئے TTS فعال کریں ...\" کی جانچ پڑتال کریں آپ کے منتخب کردہ کام کے تحت؛ &lt;br/&gt; ایک 3) \"کا انتخاب کریں TTS\" کے اسپنر دائیں کلک کریں اور نام کی طرف سے حق کے انجن کو منتخب کریں. (نوٹس: انجن منسلک کام کی زبان suport ہے اس بات کا یقین)، \ N4) آپ پر کام چالو کرنے کے ہے اگر چالو زیادہ سے زیادہ دو انجن نہیں ہو سکتا."</item>
+		<item>"1) \"گوگل TTS\" تلاش اور، جرمن، ہسپانوی اور اطالوی انگریزی، Frech، چالو کرنے کے لئے اسے نصب، ایک &lt;br/&gt; 2) \"IVONA\" یا \"SVOX\" تلاش کی طرف سے، آپ کو بنیادی طور پر مغربی زبانوں کے لئے کچھ انجن کی تلاش کر سکتے ہیں، &lt;BR /&gt; 3) Sumsang صارفین کے لئے، \"Sumsang TTS\" کی تلاش کی طرف سے، آپ کو کوریا، جاپانی اور چینی حمایت کرنے کے لئے نصب کرنے کے لئے APK تلاش کر سکتے ہیں، ایک &lt;br/&gt; 4) چینی صارفین \"Xunfei TTS\" APK حمایت کرنے کے لئے حاصل کرنے کے لئے چینی تلاش کر سکتے اور انگریزی. "</item>
+		<item>". مینو \"بنیادی\" TTS سروس فیشن قائم کرنے کے لئے \"کے موڈ بات\" ایک &lt;br/&gt; 1) مواد کی مسلسل پڑھنے میں \"کبھی نہیں\" کے نتائج کے اسپنر دائیں کلک کریں، ایک &lt;br/&gt; 2) \"EndOfBook\" TTS ایک کتاب کے آخر تک ختم ہو جائے گا، ایک &lt;br/&gt; 3) \"EndOfChapter\" TTS ایک باب کے آخر تک ختم ہو جائے گا، ایک &lt;br/&gt; 4) \"فوری طور پر\" TTS منتخب پڑھنے کے بعد بند ہو جائیں گے . آیت &lt;br/&gt; ایک ہے &lt;b&gt; نوٹس: دو TTS کے انجن کو منتخب کر رہے ہیں، وہ متبادل کے طور پر پڑھا جائے گا &lt;/ B&gt;"</item>
+	</string-array>
+    
+</resources>

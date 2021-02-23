@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"Cel mai lent"</item>
+        <item>" Mai lent"</item>
+        <item>"   Lent"</item>
+        <item>" Normal"</item>
+        <item>"   Rapid"</item>
+        <item>" Mai repede"</item>
+        <item>"Cel mai rapid"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"Cel mai mic"</item>
+        <item>" Inferior"</item>
+        <item>"   Scăzut"</item>
+        <item>"Normal"</item>
+        <item>"  Mare"</item>
+        <item>"Superior"</item>
+        <item>"Cea mai mare"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Niciodată"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Imediat"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Caracteristici:"</item>
+		<item>"Autor:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles poate afișa una sau două Biblii de peste 20 de limbi în același timp. Cu motoarele TTS dotate, puteți auzi conținutul a două limbi la oriunde, fără a descărca orice mass-media orice mai mult. Cu stocare eficientă a datelor, răspunde foarte rapid la gesturile multi-deget."</item>
+		<item>"&lt;u&gt; 1.1 (2013_06):. &lt;/ u&gt; &lt;br/&gt; * soluție temporară pentru telefoane fără buton hardware MENU de includ 4 butoane de imagine de pe ecranul principal &lt;br/&gt; &lt;u&gt; 1.0 (2013_05) : &lt;/ u&gt; &lt;br/&gt; * La cele mai multe 2 biblii selectabile afișate în ordine verset; &lt;br/&gt; * La cele mai multe 2 TTS activate pentru biblii selectate; &lt;br/&gt; * gesturi simple pentru a sprijini acțiuni, cum ar fi Zoom-in/out , Page-down/up, Urmatoare / Anterioara-capitol / carte și etc; &lt;br/&gt; * stocare aleatorie datele accesibile pentru a permite un răspuns rapid și amprenta de memorie scăzută; &lt;br/&gt; * Versiunea de baza a descărca și de management."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William Jiang &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"Sursa de Biblii:"</item>
+        <item>"Limbi suportate:"</item>
+        <item>"Descarcă biblii:"</item>
+        <item>"Biblii de import:"</item>
+		<item>"Gestionați biblii:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"Datele de AloudBibles sunt colectate de la fișiere text de pe Internet și osis fișierele găsite în proiect Zefania."</item>
+        <item>"Puteți descărca biblii din urmatoarele limbi: &lt;br/&gt; Arabic (العربية), Azerbaidjan (Azerbaidjan), bulgar (български), Cehă (Čeština), germană (Deutsch), greacă (Ελληνικά), engleză (engleză), spaniolă (español ), finlandeză (Suomi), franceză (Français), ebraică (עברית), maghiară (Magyar), italiană (italiano), coreeană (한국어), latină (Latin), Maori (Maori), Dutch (Nederlands), Limba Filipine ( Limba Filipine), portugheză (Português), română (română), rusă (русский), albaneză (albanez), suedeză (Svenska), Thai (ไทย), tagalog (tagalog), Vietnamese (Tiếng Việt), chineză (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) Apăsați butonul MENU; &lt;br/&gt; 2) Faceți clic pe \"Download\", &lt;br/&gt; 3) Apăsați butonul \"+\", pe partea dreaptă a versiunii specifice, &lt;br/&gt; 4) Faceți clic pe \"Confirmați\" a de dialog pentru a începe; &lt;br/&gt; 5), puteți anula sarcina de download onging făcând clic pe butonul - \"\"."</item>
+		<item>"1) vizita &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt; pentru a descărca versiunile cu fermoar; &lt;br/&gt; 2) Salvați fișierele zip descărcat la orice folder de sdcard dumneavoastră, &lt;br/&gt; 3) Apăsați butonul MENU; &lt;br/&gt; 4) Faceți clic pe \"Manage biblii\"; &lt;br/&gt; 5) Apasati \"fișierul local de import\" de sub fereastra, &lt;br / &gt; 6) Selectați fișierul zip de la sdcard dumneavoastră."</item>
+		<item>"1) Apăsați butonul MENU; &lt;br/&gt; 2) Faceți clic pe \"Preference\", &lt;br/&gt; 3) Faceți clic pe prima listă verticală și selectați lucrarea primar; &lt;br/&gt; 4) Opțional, puteți verifica \"Alege lucrarea secundar: \". și selectați unul secundar pentru a afișa, sau, puteți să debifați pentru a afișa numai un singur lucru &lt;br/&gt; 5) În cele din urmă, faceți clic pe cel mai de jos\" Confirmare \"pentru a face alegerile intra în vigoare."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"Pentru a Jos / Sus:"</item>
+        <item>"Zoom In / Out:"</item>
+        <item>"La următoarea / precedenta carte / capitol:"</item>
+		<item>"Pagina de jos / sus:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"Două degete ating screean, treceți atât de jos / până la partea de jos / sus a paginii respectiv."</item>
+        <item>"Cu două degete atinge pe ecran, mutându-le towarding / plecare ar duce la scăderea dimensiunea fontului sau crește, respectiv."</item>
+		<item>"Când este afișat index dintr-o carte, swipe-right/left conduce la carte anterioară / următoare respctively, atunci când conținutul unui capitol este vizualizat, rezultate swipe-right/left în capitolul anterior / următor."</item>
+		<item>"Pentru a activa pagina de jos / sus, folosesc un deget pentru a treceți în jos / în sus, respectiv."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Porni / opri lectură:"</item>
+        <item>"Setare TTS:"</item>
+        <item>"Ia motoarele TTS:"</item>
+        <item>"Comportamentul de lectură:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Deschideți capitol și faceți clic pe versetul pentru a începe vorbind, re-clic versetul SAME (a evidențiat unul) rezultate din oprire."</item>
+        <item>". 1) Trebuie să aveți TTS adecvate) Motoare (Text-to-speech instalate &lt;br/&gt; 2) MENU -&gt; Preferințe: Verificați \"Enable TTS pentru ...\" în munca pe care selectat, &lt;br/&gt; 3) Faceți clic dreapta spinner de \"Alege TTS\" și selectați motorul chiar pe nume. (Notice: asigurați-vă că motorul nu sustinem limba de lucru asociat); \ n4) Nu poate fi maxim două motoare activate dacă aveți posibilitatea de lucru secundar."</item>
+		<item>"1) Căutarea \"Google TTS\" și instalați-l pentru a permite engleză, Frech, germană, spaniolă și italiană, &lt;br/&gt; 2) Prin căutarea \"IVONA\" sau \"SVOX\", puteți găsi unele motoare mai ales pentru limbile occidentale; &lt;br /&gt; 3) Pentru utilizatorii Sumsang, prin căutarea \"TTS Sumsang\", puteți găsi APK pentru a instala pentru a sprijini coreeană, japoneză și chineză, &lt;br/&gt; 4), utilizatorii chinezi ar putea căuta \"Xunfei tts\" pentru a obține APK pentru a sprijini chineză și limba engleză. "</item>
+		<item>"MENU-\"Preferințe\": clic dreapta spinner de \"Vorbește Mode\" pentru a seta moda serviciu TTS &lt;br/&gt; 1) \"Niciodata\" rezultate din citirea continuă a conținutului; &lt;br/&gt; 2) \"EndOfBook\".: TTS se va opri până la sfârșitul anului o carte; &lt;br/&gt; 3) \"EndOfChapter\": TTS se va opri până la sfârșitul unui capitol, &lt;br/&gt; 4) \"imediat\": TTS se va opri după ce a citit selectat . verset &lt;br/&gt; &lt;b&gt; ANUNȚ:. atunci când sunt selectate două motoare TTS, ei vor citi alternativ &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

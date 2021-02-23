@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"האיטי ביותר"</item>
+        <item>" איטי יותר"</item>
+        <item>"   לאט"</item>
+        <item>" נורמלי"</item>
+        <item>"   מהיר"</item>
+        <item>" מהר יותר"</item>
+        <item>"המהיר ביותר"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"הנמוך ביותר"</item>
+        <item>" נמוך יותר"</item>
+        <item>"   נמוך"</item>
+        <item>"נורמלי"</item>
+        <item>"  גבוה"</item>
+        <item>"גבוה יותר"</item>
+        <item>"הגבוה ביותר"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"מעולם לא"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"מייד"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"מאפיינים:"</item>
+		<item>"מחבר:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles יכול להציג ספרי תנ\"ך אחד או שניים של מעל 20 שפות באותו הזמן. עם מנועי TTS מצוידים, אתה יכול לשמוע את תוכנן של שתי שפות בכל מקום ללא הורדה כל מדיה יותר. עם אחסון נתונים יעיל, הוא מגיב מהר מאוד למחוות רבת האצבע שלך."</item>
+		<item>"&lt;u&gt; 1.1 (2013_06):. &lt;/ u&gt; &lt;br/&gt; * פתרון זמני למכשירים ללא לחצן MENU חומרה על ידי כולל 4 לחצני תמונה בתצוגה הראשית של &lt;br/&gt; &lt;br/&gt; &lt;u&gt; 1.0 (2013_05) : &lt;/ U&gt; &lt;br/&gt; * לכל היותר 2 ספרי תנ\"ך לבחירה מוצגים לפי סדר פסוק; &lt;br/&gt; * לכל היותר 2 TTS אפשר לספרי תנ\"ך שנבחר; &lt;br/&gt; מחוות פשוטות * לתמוך בפעולות כמו Zoom-in/out , Page-down/up, הבא / קודם, פרק / ספר וכד '; &lt;br/&gt; * אחסון נתונים נגיש אקראי כדי לאפשר תגובה מהירה וטביעת רגל זיכרון נמוכה; הורדת גרסה בסיסית * &lt;br/&gt; וניהול."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; ויליאם יאנג &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"מקור של ספרי תנ\"ך:"</item>
+        <item>"שפות נתמכות:"</item>
+        <item>"הורד ספרי תנ\"ך:"</item>
+        <item>"ספרי תנ\"ך יבוא:"</item>
+		<item>"ניהול ספרי תנ\"ך:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"נתונים של AloudBibles נאספו מתוך קבצי טקסט בקבצי האינטרנט וOSIS מצאו בפרויקט צפניה."</item>
+        <item>"ניתן להוריד ספרי תנ\"ך בשפות הבאות: &lt;br/&gt; ערבית (العربية), אזרביג'אן (אזרביג'אן), בולגרי (български), צ'כיה (čeština), גרמנית (דויטש), יווני (Ελληνικά), אנגלית (באנגלית), ספרדית (español ), פינית (Suomi), צרפתית (צרפתית), עברית (עברי), הונגרי (Magyar), איטלקית (Italiano), קוריאני (한국어), לטיני (לטיני), מאורי (מאורי), הולנדי (Nederlands), פיליפינית שפה ( פיליפיני שפה), פורטוגזית (Português), רומנית (Romana), רוסית (русский), אלבני (אלבניה), השבדי (Svenska), תאילנדי (ไทย), טגלוג (טגלוג), וייטנאמי (Tiếng Việt), סיני (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) לחץ על לחצן MENU; &lt;br/&gt; 2) לחץ על \"הורדה\"; &lt;br/&gt; 3) לחץ על כפתור \"+\" בצד ימין של הגרסה הספציפית; &lt;br/&gt; 4) לחץ על \"אישור\" של שיח כדי להתחיל; &lt;br/&gt; 5) ניתן לבטל את משימת הורדת onging על ידי לחיצה על כפתור - \"\"."</item>
+		<item>"1) ביקור &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt; כדי להוריד את הגרסאות מכווצות; &lt;br/&gt; 2) שמור את קבצי ה-zip לכל תיקייה של sdcard שלך; &lt;br/&gt; 3) לחץ על לחצן MENU; &lt;br/&gt; 4) לחץ על \"ניהול ספרי תנ\"ך\"; &lt;br/&gt; 5) לחץ על \"הקובץ המקומי היבוא\" מתחת לחלון; &lt;br / &gt; 6) בחר את קובץ zip מsdcard שלך."</item>
+		<item>"1) לחץ על לחצן MENU; &lt;br/&gt; 2) לחץ על \"העדפות\"; &lt;br/&gt; 3) לחץ על הרשימה נפתחת הראשונה ובחר את העבודה הראשונית; &lt;br/&gt; 4) לחלופין, אתה יכול לבדוק \"בחר העבודה המשנית: \". ובחר את אחד משני לתצוגה, או, אתה יכול בטל אותו כדי להציג רק עבודה אחת &lt;br/&gt; 5) לבסוף, לחץ על undermost\" האישור \"כדי לעשות את הבחירות תיכנסנה לתוקף."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"לחלק תחתון / עליון של הדף:"</item>
+        <item>"קרב / הרחק:"</item>
+        <item>"לספר / הפרק קודם / הבא:"</item>
+		<item>"דף למטה / למעלה:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"שתי אצבעות נוגעות בscreean, לסחוב שני למטה / עד התחתית / ראש העמוד בהתאמה."</item>
+        <item>"עם שתי אצבעות נוגעות במסך, להעביר אותם towarding / יוצא יביא לירידה בגודל גופן או להגדיל בהתאמה."</item>
+		<item>"כאשר מדד של ספר מוצג, swipe-right/left מוביל לספר קודם / הבא respctively; תוצאות כאשר התוכן של פרק מוצג, swipe-right/left בפרק קודם / הבא."</item>
+		<item>"כדי להפעיל את הדף / למעלה, להשתמש באצבע אחת לסחוב כלפי מטה / מעלה בהתאמה."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"התחל / להפסיק לקרוא:"</item>
+        <item>"הגדרת TTS:"</item>
+        <item>"קבל מנועי TTS:"</item>
+        <item>"קריאת התנהגות:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"פתח את הפרק ולחץ על הפסוק להתחיל לדבר, לחץ עליו מחדש של הפסוק זהה (מודגש אחד) תוצאות בתחנה."</item>
+        <item>". 1) אתה צריך TTS המתאים המנועים (טקסט לדיבור) מותקן &lt;br/&gt; 2) תפריט -&gt; העדפות: בדוק \"אפשר TTS עבור ...\" תחת העבודה שבחרת; &lt;br/&gt; 3) לחץ על הזכות טווה של \"TTS בחר\" ובחר את המנוע הימני בשמו. (שים לב: ודא שמנוע אינו suport השפה של העבודה קשורה); \ N4) לא יכול להיות שני המנועים מרביים יופעלו אם יש לך לאפשר עבודה משני."</item>
+		<item>"1) חיפוש \"גוגל TTS\" ולהתקין אותו כדי לאפשר לאנגלית, Frech, גרמנית, ספרדית והאיטלקית; &lt;br/&gt; 2) על ידי חיפוש \"IVONA\" או \"SVOX\", אתה יכול למצוא כמה מנועי בעיקר לשפות מערביות; &lt;br /&gt; 3) עבור משתמשי Sumsang, על ידי חיפוש \"TTS Sumsang\", אתה יכול למצוא APK להתקין לתמוך קוריאני, יפני וסיני; &lt;br/&gt; 4) משתמשים סיניים יכולים לחפש \"TTS Xunfei\" כדי לקבל את APK לתמיכה סיני ובאנגלית. "</item>
+		<item>"תפריט \"העדפות\": לחץ על הזכות טווה של \"דבר מצב\" כדי להגדיר את האופנה שירות TTS &lt;br/&gt; 1) \"לעולם לא\" תוצאות בקריאה רציפה של התוכן; &lt;br/&gt; 2) \"EndOfBook\".: TTS יפסיק עד סוף הספר; &lt;br/&gt; 3) \"EndOfChapter\": TTS יפסיק עד סוף הפרק; &lt;br/&gt; 4) \"מייד\": TTS יפסיק לאחר הקריאה שנבחרה הודעת פסוק &lt;br/&gt; &lt;b&gt;:.. כאשר שני מנועי TTS נבחרים, הם יקראו לחלופין &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

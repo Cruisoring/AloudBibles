@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<style name="AloudTheme" parent="@android:style/Theme.Holo.Light">
+		<item name="android:listViewStyle">@style/SelectableListView</item>
+	</style>
+
+	<style name="AloudTheme.FullScreen">
+		<item name="android:windowNoTitle">true</item>
+	</style>
+
+</resources>

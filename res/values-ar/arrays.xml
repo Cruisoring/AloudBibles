@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"أبطأ"</item>
+        <item>" أبطأ"</item>
+        <item>"   بطيء"</item>
+        <item>" طبيعي"</item>
+        <item>"   سريع"</item>
+        <item>" أسرع"</item>
+        <item>"أسرع"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"أدنى"</item>
+        <item>" انخفاض"</item>
+        <item>"   منخفض"</item>
+        <item>"طبيعي"</item>
+        <item>"  ارتفاع"</item>
+        <item>"أعلى"</item>
+        <item>"أعلى"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"أبدا"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"فورا"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"الميزات:"</item>
+		<item>"المؤلف:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"يمكن AloudBibles عرض واحد أو اثنين من الأناجيل أكثر من 20 لغة في نفس الوقت. مع مجهزة محركات تحويل النص إلى كلام، يمكنك سماع محتوى غتين في أي مكان دون حمل أي سائل الإعلام لفترة أطول. مع تخزين البيانات بكفاءة، فإنه يستجيب بسرعة لديك فتات متعددة الإصبع للغاية."</item>
+		<item>"&lt;U&gt; 1.1 (2013_06): &lt;/ U&gt; &lt;BR/&gt; * حل مؤقت لأجهزة بدون زر MENU الأجهزة التي كتبها تشمل 4 أزرار الصورة على شاشة العرض الرئيسية &lt;BR/&gt; &lt;BR/&gt; &lt;U&gt; 1.0 (2013_05) : &lt;/ U&gt; &lt;BR/&gt; * في معظم 2 الأناجيل اختيار عرض من أجل الآية؛ &lt;BR/&gt; * في معظم 2 TTS تمكين الأناجيل المختارة؛ &lt;BR/&gt; * لفتات بسيطة لدعم الإجراءات مثل Zoom-in/out ، Page-down/up، التالي / السابق، الفصل / كتاب والخ؛ &lt;BR/&gt; * عشوائية تخزين البيانات في متناول تمكين استجابة سريعة ومنخفضة البصمة الذاكرة؛ &lt;BR/&gt; * تحميل الإصدار الأساسي والإدارة."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com؟Subject=AloudBibles\"&gt; وليام جيانغ &lt;/ A&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"مصدر الأناجيل:"</item>
+        <item>"أيد لغات:"</item>
+        <item>"تحميل الأناجيل:"</item>
+        <item>"الأناجيل الاستيراد:"</item>
+		<item>"إدارة الأناجيل:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"يتم جمع البيانات من AloudBibles من الملفات النصية على الانترنت وملفات OSIS وجدت في المشروع Zefania."</item>
+        <item>"يمكنك تحميل الأناجيل من اللغات التالية: &lt;BR/&gt; Arabic (العربية)، أذربيجان (أذربيجان)، والبلغارية (български)، التشيك (čeština)، الألمانية (Deutsch) واليونانية (Ελληνικά)، اللغة الإنجليزية (اللغة الإنجليزية)، والإسبانية (الأسبانية )، الفنلندية (سومي)، الفرنسية (français ل)، العبرية (עברית)، المجرية (MAGYAR) والإيطالية (الإيطالية) والكورية (한국어) واللاتينية (اللاتينية)، ماوري (الماوري)، الهولندية (Nederlands)، اللغة الفلبينية ( اللغة الفلبينية)، والبرتغالية (البرتغالية) والرومانية (رومانا)، الروسية (русский)، الألبانية (ألباني) والسويدية (سفنسكا) والتايلاندية (ไทย)، التاجالوجية (التاجالوجية) والفيتنامية (تينغ نام)، والصينية (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) اضغط على زر القائمة؛ &lt;BR/&gt; 2) انقر على \"تحميل\"، اضغط على زر &lt;BR/&gt; 3) \"+\" على الجانب الأيمن من إصدار محدد؛ &lt;BR/&gt; 4) اضغط على \"تأكيد\" ل لبدء الحوار؛ &lt;BR/&gt; 5) يمكنك إلغاء مهمة تحميل onging بالنقر على \"-\" زر."</item>
+		<item>"1) زيارة &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/؟source=navbar\"&gt; سورس &lt;/ a&gt; لتحميل إصدارات مضغوط؛ &lt;BR/&gt; 2) حفظ ملفات مضغوطة تحميل إلى أي مجلد من SDCARD الخاص بك؛ &lt;BR/&gt; 3) اضغط على زر القائمة؛ &lt;BR/&gt; 4) انقر على \"إدارة الأناجيل\"؛ &lt;BR/&gt; 5) اضغط على \"ملف استيراد المحلية\" تحت النافذة؛ &lt;ر / &gt; 6) اختر ملف مضغوط من SDCARD الخاص بك."</item>
+		<item>"1) اضغط على زر القائمة؛ &lt;BR/&gt; 2) اضغط \"ميول\"؛ &lt;BR/&gt; 3) اضغط على أول القائمة المنسدلة واختيار العمل الأولية؛ &lt;BR/&gt; 4) اختياريا، يمكنك التحقق \"اختيار العمل الثانوي: \"واختيار واحد الثانوي لعرضه، أو، يمكنك إلغاء ذلك لعرض عمل واحد فقط &lt;BR/&gt; 5) وأخيرا، انقر فوق undermost\" تأكيد \"لاتخاذ الخيارات حيز التنفيذ."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"إلى أسفل / أعلى الصفحة:"</item>
+        <item>"تكبير / تصغير:"</item>
+        <item>"إلى التالي / السابق كتاب / الفصل:"</item>
+		<item>"صفحة لأسفل / أعلى:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"اثنين من أصابع لمس screean، انتقد كل من أسفل / أعلى إلى أسفل / أعلى الصفحة على التوالي."</item>
+        <item>"مع اثنين من أصابع لمس على الشاشة، نقلها towarding / المغادرين من شأنه أن يؤدي إلى انخفاض حجم الخط أو زيادة على التوالي."</item>
+		<item>"عندما يظهر مؤشر كتاب، swipe-right/left يؤدي إلى الكتاب السابق / المقبل respctively؛ عند عرض محتوى الفصل، نتائج swipe-right/left في الفصل السابق / المقبل."</item>
+		<item>"لتحويل صفحة لأسفل / أعلى، واستخدام إصبع واحد لانتقاد النزولي / التصاعدي على التوالي."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"بدء / إيقاف القراءة:"</item>
+        <item>"الإعداد تحويل النص إلى كلام:"</item>
+        <item>"الحصول على محركات تحويل النص إلى كلام:"</item>
+        <item>"قراءة السلوك:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"فتح الفصل وانقر على الآية لبدء التحدث وإعادة النقر الآية نفسه (وأبرز احدة) النتائج في المحطة."</item>
+        <item>"1) تحتاج إلى أن يكون مناسبا TTS (النص إلى كلام) محركات تثبيت &lt;BR/&gt; 2) MENU -&gt; ميول: تحقق \"تمكين تحويل النص إلى كلام ل...\" في إطار العمل الذي حددته؛ &lt;BR/&gt; 3) انقر على الحق الدوار من \"اختيار تحويل النص إلى كلام\" وحدد محرك الحق بالاسم. (ملاحظة: تأكد من أن المحرك لا سوبورت لغة العمل المرتبطة بها)؛ \ N4) يمكن أن يكون هناك أقصى اثنين من محركات تفعيلها إذا كان لديك تمكين العمل الثانوي."</item>
+		<item>"1) البحث \"جوجل تحويل النص إلى كلام\" وتثبيته لتمكين اللغة الإنجليزية، فريتش والألمانية والإسبانية والإيطالية؛ &lt;BR/&gt; 2) من خلال البحث \"إيفونا\" أو \"SVOX\"، يمكنك أن تجد بعض محركات أساسا للغات الغربية؛ &lt;ر /&gt; 3) بالنسبة للمستخدمين على Sumsang، من خلال البحث \"تحويل النص إلى كلام على Sumsang\"، يمكنك أن تجد APK لتثبيت لدعم الكورية واليابانية والصينية؛ &lt;BR/&gt; 4) يمكن للمستخدمين البحث الصيني \"Xunfei تحويل النص إلى كلام\" للحصول على APK لدعم الصينية والإنجليزية. "</item>
+		<item>"MENU \"ميول\": انقر فوق الحق الدوار من \"الكلام الوضع\" لضبط أزياء خدمة تحويل النص إلى كلام &lt;BR/&gt; 1) \"أبدا\" النتائج في القراءة المستمرة للمحتوى؛ &lt;BR/&gt; 2) \"EndOfBook\".: فإن وقف تحويل النص إلى كلام بحلول نهاية كتاب؛ &lt;BR/&gt; 3) \"EndOfChapter\": تحويل النص إلى كلام وستتوقف بحلول نهاية فصل؛ &lt;BR/&gt; 4) \"فورا\": سوف TTS وقف بعد قراءة مختارة . الآية &lt;BR/&gt; &lt;B&gt; إشعار: عندما يتم اختيار اثنين من محركات تحويل النص إلى كلام، وأنها سوف تقرأ بدلا من ذلك &lt;/ B&gt;"</item>
+	</string-array>
+    
+</resources>

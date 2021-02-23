@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res/com.alouder.bibles"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical" >
+
+	<TextView 
+		android:id="@+id/bookTitle"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		style="@style/titleTextView"
+		/>
+
+	<com.alouder.bibles.widgets.EasyTableLayout
+		android:id="@+id/indexTable"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:gravity="center"
+		android:paddingLeft="4dp"
+		android:paddingRight="4dp"
+		android:paddingTop="10dp"
+		android:paddingBottom="20dp"
+		app:columnCount="10"
+		 >
+	</com.alouder.bibles.widgets.EasyTableLayout>
+
+</LinearLayout>

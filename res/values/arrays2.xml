@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="speech_rate_values">
+        <item>0.7</item>
+        <item>0.8</item>
+        <item>0.9</item>
+        <item>1.0</item>
+        <item>1.1</item>
+        <item>1.2</item>
+        <item>1.5</item>
+    </string-array>
+    <string-array name="pitch_values">
+        <item>0.7</item>
+        <item>0.8</item>
+        <item>0.9</item>
+        <item>1.0</item>
+        <item>1.1</item>
+        <item>1.2</item>
+        <item>1.5</item>
+    </string-array>
+    <string-array name="speak_mode_values">
+        <item>Never</item>
+        <item>EndOfBook</item>
+        <item>EndOfChapter</item>
+        <item>Immediately</item>
+    </string-array>
+
+</resources>

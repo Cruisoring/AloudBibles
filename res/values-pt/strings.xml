@@ -1,0 +1,47 @@
+<resources>
+  <string name="previous">Anterior</string>
+  <string name="next">Próxima</string>
+  <string name="open_file">Abrir arquivo</string>
+  <string name="set_primary_work">Conjunto de trabalho primário</string>
+  <string name="choose_the_primary_work">Escolha o trabalho primário:</string>
+  <string name="enable_tts_for_primary_work">Habilitar o TTS para trabalho primário</string>
+  <string name="choose_tts">Escolha TTS:</string>
+  <string name="set_rate">"Taxa fixada:"</string>
+  <string name="set_pitch">Defina o campo:</string>
+  <string name="set_secondar_work">Definir o trabalho de empurrar</string>
+  <string name="choose_the_secondary_work">Escolha o trabalho secundário:</string>
+  <string name="enable_tts_for_secondary_work">Habilitar o TTS para trabalho secundário</string>
+  <string name="loading">Clique para visualizar o conteúdo...</string>
+  <string name="list_books">Lista de livros</string>
+  <string name="remove_the_work">Remover o trabalho</string>
+  <string name="language">Idioma:</string>
+  <string name="title">Título:</string>
+  <string name="version">Versão:</string>
+  <string name="summary">Resumo:</string>
+  <string name="description">Descrição:</string>
+  <string name="summary_format" formatted="false">%d livros, capítulos de %d, %d versos</string>
+  <string name="confirm_work_removal">Confirme a remoção</string>
+  <string name="confirm_removal">Tem certeza de apagar</string>
+  <string name="preference">Preferência</string>
+  <string name="manage">Gerenciar Bíblias</string>
+  <string name="download">Baixar</string>
+  <string name="choose_speak_mode">Modo de falar:</string>
+  <string name="no_tts_warning">Nenhum mecanismo de texto em fala válido configurado!</string>
+  <string name="import_file">Importar arquivo de locais</string>
+  <string name="about">sobre</string>
+  <string name="bibles">Bíblias</string>
+  <string name="gestures">gestos</string>
+  <string name="voices">vozes</string>
+  <string name="help">Ajuda</string>
+  <string name="bible_information">Informações da Bíblia</string>
+  <string name="download_confirmation">Download confirmação</string>
+  <string name="build">Construir</string>
+  <string name="data_size">Tamanho dos dados</string>
+  <string name="content">Conteúdo</string>
+  <string name="books">Livros</string>
+  <string name="chapters">Capítulos</string>
+  <string name="verses">Versos</string>
+  <string name="confirm_download">Você vai baixar</string>
+  <string name="download_cancelled_format">O download de %s é cancelado.</string>
+  <string name="extracting">Arquivo de extração de</string>
+</resources>

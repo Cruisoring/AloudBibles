@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"Chậm nhất"</item>
+        <item>" Chậm"</item>
+        <item>"   Chậm"</item>
+        <item>" Bình thường"</item>
+        <item>"   Nhanh"</item>
+        <item>" Nhanh hơn"</item>
+        <item>"Nhanh nhất"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"Thấp nhất"</item>
+        <item>" Thấp hơn"</item>
+        <item>"   Thấp"</item>
+        <item>"Bình thường"</item>
+        <item>"  Cao"</item>
+        <item>"Cao hơn"</item>
+        <item>"Cao nhất"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Không bao giờ"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Ngay"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Các tính năng:"</item>
+		<item>"Tác giả:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles có thể hiển thị một hoặc hai thánh kinh của hơn 20 ngôn ngữ cùng một lúc. Với động cơ TTS trang bị, bạn có thể nghe nội dung của hai ngôn ngữ ở bất cứ nơi nào mà không cần tải về bất kỳ phương tiện truyền thông nữa. Với lưu trữ dữ liệu hiệu quả, nó phản ứng cực kỳ nhanh chóng các cử chỉ đa ngón tay của bạn."</item>
+		<item>"&lt;u&gt; 1.1 (2013_06):. &lt;/ u&gt; &lt;br/&gt; * giải pháp tạm thời cho các thiết bị cầm tay mà không cần nút MENU phần cứng bằng cách bao gồm 4 nút hình ảnh trên giao diện chính của &lt;br/&gt; &lt;u&gt; 1.0 (2013_05) : &lt;/ u&gt; &lt;br/&gt; * Tại hầu hết các kinh bổn 2 lựa chọn hiển thị theo thứ tự câu; &lt;br/&gt; * Tại hầu hết 2 TTS kích hoạt cho kinh bổn được lựa chọn; &lt;br/&gt; * cử chỉ đơn giản để hỗ trợ các hành động như Zoom-in/out , Page-down/up, Tiếp / Trước chương / cuốn sách và vv; &lt;br/&gt; * ngẫu nhiên truy cập lưu trữ dữ liệu để cho phép phản ứng nhanh chóng và bộ nhớ thấp; &lt;br/&gt; * phiên bản cơ bản tải về và quản lý."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William Giang &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"Nguồn kinh bổn:"</item>
+        <item>"Ngôn ngữ hỗ trợ:"</item>
+        <item>"Tải về thánh kinh:"</item>
+        <item>"Kinh bổn nhập khẩu:"</item>
+		<item>"Quản lý kinh bổn:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"Các dữ liệu được thu thập từ AloudBibles tập tin văn bản trên Internet và Osis các tập tin được tìm thấy trong dự án Zefania."</item>
+        <item>"Bạn có thể tải về thánh kinh của ngôn ngữ sau: tiếng Ả Rập &lt;br/&gt; (العربية), Azerbaijan (Azerbaijan), Bungari (български), Cộng hòa Séc (čeština), Đức (Deutsch), Hy Lạp (Ελληνικά), tiếng Anh (tiếng Anh), Tây Ban Nha (español ), Phần Lan (suomi), Pháp (français), tiếng Do Thái (עברית), Hungary (magyar), Ý (italiano), Hàn Quốc (한국어), Latin (Latin), người Maori (Maori), Hà Lan (Nederlands), Philippines Ngôn ngữ ( Philippines Language), Bồ Đào Nha (Portuguese), Rumani (Română), Nga (русский), Albania (Albania), Thụy Điển (svenska), Thái Lan (ไทย), Tagalog (Tagalog), Việt Nam (Tiếng Việt), Trung Quốc (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) Nhấn nút MENU, &lt;br/&gt; 2) Bấm vào \"Tải về\"; &lt;br/&gt; 3) Nhấn \"+\" nút ở phía bên phải của phiên bản cụ thể; &lt;br/&gt; 4) Nhấp vào \"Xác nhận\" của thoại để bắt đầu; &lt;br/&gt; 5) Bạn có thể hủy bỏ nhiệm vụ tải onging bằng cách nhấn vào \"-\" nút."</item>
+		<item>"1) Tham quan &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt; để tải về các phiên bản nén; &lt;br/&gt; 2) Lưu các tập tin zip tải về đến bất kỳ thư mục của sdcard của bạn; &lt;br/&gt; 3) Nhấn nút MENU, &lt;br/&gt; 4) Nhấp vào \"Quản lý kinh bổn\"; &lt;br/&gt; 5) Nhấn \"Nhập tập tin địa phương\" dưới cửa sổ; &lt;br / &gt; 6) Chọn file zip từ sdcard của bạn."</item>
+		<item>"1) Nhấn nút MENU, &lt;br/&gt; 2) Click \"thích\"; &lt;br/&gt; 3) Nhấp vào đầu danh sách thả xuống và chọn công việc chính; &lt;br/&gt; 4) Tùy chọn, bạn có thể kiểm tra \"Chọn công việc phụ: \". và chọn một trong những thứ để hiển thị, hoặc, bạn có thể bỏ chọn nó để hiển thị chỉ có một công việc &lt;br/&gt; 5) Cuối cùng, nhấp vào ở dưới hơn hết\" Xác nhận \"để làm cho sự lựa chọn có hiệu lực."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"Đến cuối / đầu của trang:"</item>
+        <item>"Zoom In / Out:"</item>
+        <item>"Kế / trước cuốn sách / chương:"</item>
+		<item>"Trang xuống / lên:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"Hai ngón tay chạm vào screean, hãy kéo mạnh cả hai xuống / lên xuống đáy / đỉnh của trang tương ứng."</item>
+        <item>"Với hai ngón tay chạm vào màn hình, di chuyển chúng towarding / khởi hành sẽ dẫn đến việc giảm kích thước phông hoặc tăng tương ứng."</item>
+		<item>"Khi chỉ số của một cuốn sách được hiển thị, swipe-right/left dẫn đến trước / sau cuốn sách respctively, khi nội dung của một chương được xem, kết quả swipe-right/left trong chương trước / sau."</item>
+		<item>"Để chuyển trang xuống / lên, sử dụng một ngón tay để swipe xuống / lên tương ứng."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Khởi động / ngừng đọc:"</item>
+        <item>"Thiết lập TTS:"</item>
+        <item>"Có được công cụ TTS:"</item>
+        <item>"Đọc hành vi:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Mở chương và nhấp vào câu để bắt đầu nói chuyện, lại nhấp chuột của câu CÙNG (được đánh dấu một) kết quả trong cửa."</item>
+        <item>". 1) Bạn cần có TTS thích hợp (Text-to-speech) các công cụ cài đặt &lt;br/&gt; 2) MENU -&gt; Sở thích: Kiểm tra \"Enable TTS cho ...\" dưới công việc bạn lựa chọn; &lt;br/&gt; 3) Nhấp vào spinner phải \"Chọn TTS\" và chọn động cơ bên phải của tên. (Chú ý: chắc chắn rằng động cơ không suport ngôn ngữ của các công việc liên quan); \ N 4) Có thể có tối đa hai động cơ được kích hoạt nếu bạn có cho phép các công việc phụ."</item>
+		<item>"1) Tìm kiếm \"Google TTS\" và cài đặt nó để cho phép tiếng Anh, Frech, tiếng Đức, tiếng Tây Ban Nha và Ý; &lt;br/&gt; 2) Bằng cách tìm kiếm \"IVONA\" hoặc \"SVOX\", bạn có thể tìm thấy một số công cụ chủ yếu cho các ngôn ngữ phương Tây; &lt;br /&gt; 3) Đối với người dùng Sumsang, bằng cách tìm kiếm \"Sumsang tts\", bạn có thể tìm thấy apk để cài đặt để hỗ trợ Hàn Quốc, Nhật Bản và Trung Quốc; &lt;br/&gt; 4) người dùng Trung Quốc có thể tìm kiếm \"Xunfei tts\" để có được những apk để hỗ trợ Trung Quốc và tiếng Anh. "</item>
+		<item>"MENU-\"thích\", click vào spinner bên phải của \"Nói Mode\" để thiết lập các dịch vụ thời trang TTS &lt;br/&gt; 1) \"Không bao giờ\" kết quả trong liên tục đọc các nội dung; &lt;br/&gt; 2) \"EndOfBook\".: TTS sẽ dừng lại vào cuối của một cuốn sách; &lt;br/&gt; 3) \"EndOfChapter\": TTS sẽ dừng lại vào cuối một chương; &lt;br/&gt; 4) \"Ngay lập tức\": TTS sẽ dừng lại sau khi đọc được lựa chọn . câu &lt;br/&gt; &lt;b&gt; THÔNG BÁO:. khi hai TTS động cơ được lựa chọn, họ sẽ đọc cách khác &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

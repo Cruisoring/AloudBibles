@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"Najpomalší"</item>
+        <item>" Pomalší"</item>
+        <item>"   Pomaly"</item>
+        <item>" Normálny"</item>
+        <item>"   Rýchlo"</item>
+        <item>" Rýchlejšie"</item>
+        <item>"Najrýchlejší"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"Najnižšia"</item>
+        <item>" Spodný"</item>
+        <item>"   Nízky"</item>
+        <item>"Normálny"</item>
+        <item>"  Vysoký"</item>
+        <item>"Vyššia"</item>
+        <item>"Najvyššia"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Nikdy"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Ihneď"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Vlastnosti:"</item>
+		<item>"Autor:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles môže zobraziť jeden alebo dva biblie z viac než 20 jazykov v rovnakom čase. S TTS motory vybavené, môžete počuť obsah dvoch jazykov kdekoľvek bez sťahovania akýchkoľvek médií dlhšie. Vďaka efektívne ukladanie dát, reaguje veľmi rýchlo na vaše multi-prstov."</item>
+		<item>"&lt;u&gt; 1.1 (2013_06). &lt;/ u&gt; br * Dočasné riešenie pre mobilné telefóny bez hardvérové ​​tlačidlo MENU o celkom 4 obrázkov tlačidiel na hlavnom zobrazení v práčke &lt;u&gt; 1.0 (2013_05) : &lt;/ u&gt; br * Na väčšine 2 voliteľné biblie zobrazená v opačnom poradí; br * Na väčšine 2 TTS povolené pre vybrané bibliou; &lt;br/&gt; * Jednoduchá gestá na podporu akcií, ako Zoom-in/out , Page-down/up, Ďalšie / Predchádzajúci, kapitola / kniha apod; br * Náhodné prístupné pre ukladanie dát umožňujúci rýchlu reakciu a nízky nároky na pamäť; br * Základná verzia na stiahnutie a riadenia."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William JIANG &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"Zdroj biblie:"</item>
+        <item>"Podporované jazyky:"</item>
+        <item>"Stiahnuť Biblie:"</item>
+        <item>"Importovať biblie:"</item>
+		<item>"Správa biblie:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"Údaje o AloudBibles sú zhromažďované z textových súborov na internet a Osis súborov nájdených v projekte Zefania."</item>
+        <item>"Tu si môžete stiahnuť biblie z nasledujúcich jazykov: br arabsky (العربية), Azerbajdžanský (Azerbajdžanský), bulharčina (български), Čeština (Čeština), nemčina (Deutsch), gréčtina (Ελληνικά), English (angličtina), Spanish (Español ), fínčina (Suomi), Francúzština (français), Hebrew (עברית), maďarský (magyar), taliančina (italiano), Korean (한국어), latinčina (latinčina), Maori (Maori), Dutch (Nederlands), filipínsky jazyk ( Philippine Language), portugalčina (Português) Romanian (Română), ruský (русский), albánska (Albánec) švédsky (Svenska) Thai (ไทย), Tagalog (Tagalog), Vietnamese (Tiếng Việt), čínština (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) Stlačte tlačidlo MENU, br 2) Kliknite na \"Stiahnuť\", br 3) Stlačte tlačidlo \"+\" na pravej strane konkrétnu verziu, br 4) Kliknite na \"Potvrdiť\" pre dialóg začať, &lt;br/&gt; 5) Môžete zrušiť onging úlohu sťahovania kliknutím na tlačidlo - \"\"."</item>
+		<item>"1) Návšteva &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt; stiahnuť zips verziu, br 2) Uložte stiahnuté ZIP súbory do ľubovoľnej zložky vášho sdcard; br 3) Stlačte tlačidlo MENU, br 4) Kliknite na \"Správa biblie\", br 5) Stlačte tlačidlo \"Importovať miestnej súbor\" pod oknom, &lt;br / &gt; 6) Vyberte súbor zips z sdcard."</item>
+		<item>"1) Stlačte tlačidlo MENU, br 2) Kliknite na \"Preferencie\", br 3) Kliknite na prvú rozbaľovací zoznam a vyberte primárny práce, br 4) Voliteľne môžete skontrolovať \"Vybrať sekundárne práce: \". a vyberte sekundárny jeden pre zobrazenie, alebo môžete zrušiť začiarknutie sa zobrazí iba jednu prácu br 5) Nakoniec kliknite na najspodnejšej\" Potvrdiť \"pre to, aby rozhodnutie nadobudne platnosť."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"Ak chcete dolnej / hornej časti stránky:"</item>
+        <item>"Zoom In / Out:"</item>
+        <item>"Na ďalšie / predchádzajúce knihy / kapitoly:"</item>
+		<item>"Page down / up:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"Dva prsty sa dotýkajú screean, prejdite aj dole / hore do spodnej / hornej časti stránky, resp."</item>
+        <item>"S dvoma prstami dotkol na obrazovke, je v pohybe towarding / odchýlenie by malo za následok zníženie veľkosti písma alebo zvýšenie, resp."</item>
+		<item>"Ak sa zobrazí index knihy, swipe-right/left vedie na predchádzajúcu / ďalšie knihy respctively, kedy obsah kapitoly sa pozeral, swipe-right/left výsledky predchádzajúcej / nasledujúcej kapitoly."</item>
+		<item>"Ak chcete stránku hore / dole, použite jeden prst švihnúť dole / hore, resp."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Štart / stop čítania:"</item>
+        <item>"Nastavenie TTS:"</item>
+        <item>"Získať TTS motory:"</item>
+        <item>"Čítanie správanie:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Otvorte kapitolu a kliknite na verš začať hovoriť, re-click toho istého verša (zvýraznené jedno) výsledky v zastávke."</item>
+        <item>". 1) Musíte mať zodpovedajúce TTS (Text-to-speech) motorov br 2) MENU -&gt; Preferencie: Skontrolujte, či \"Povoliť TTS pre ...\" za prácu, ktorú vybraného; br 3) Kliknite na číselník právo \"Vyberte TTS\" a vybrať ten správny motor podľa názvu. (Poznámka: uistite sa, že motor nenaštartuje suport jazyk práce spojené); \ n4) Tam môže byť maximálne dva motory aktivované, ak máte povoliť sekundárne práce."</item>
+		<item>"1) Vyhľadávanie \"Google TTS\" a nainštalujte ho povoliť angličtinu, FRECH, nemecky, španielsky a taliansky, br 2) Pri hľadaní \"Ivona\" alebo \"SVOX\", môžete nájsť nejaké motory hlavne pre západné jazyky, &lt;br /&gt; 3) Pre užívateľov Sumsang, hľadaním \"Sumsang tts\", môžete nájsť APK nainštalovať na podporu kórejskej, japonskej a čínskej, br 4) čínski používatelia môžu vyhľadávať \"Xunfei tts\" dostať APK podporovať čínsky a angličtina. "</item>
+		<item>"MENU \"Preferencie\": kliknite na číselník právo \"hovoriť Mode\" nastavte TTS servisné módy br 1) \"nikdy\" výsledky v nepretržitom čítaní obsahu, br 2) \"EndOfBook\".: TTS sa zastaví na konci knihy, br 3) \"EndOfChapter\": TTS sa zastaví na konci kapitoly, br 4) \"ihneď\": TTS sa zastaví po prečítaní vybranej . verš &lt;br/&gt; &lt;b&gt; UPOZORNENIE:. ak sú vybrané dve TTS motory, sa čítajú striedavo &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

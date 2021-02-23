@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"Najpočasnejših"</item>
+        <item>" Počasneje"</item>
+        <item>"   Počasno"</item>
+        <item>" Normalno"</item>
+        <item>"   Fast"</item>
+        <item>" Hitreje"</item>
+        <item>"Najhitreje"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"Najnižja"</item>
+        <item>" Spodnja"</item>
+        <item>"   Nizka"</item>
+        <item>"Normalno"</item>
+        <item>"  Visoko"</item>
+        <item>"Višje"</item>
+        <item>"Naj"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Nikoli"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Takoj"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Značilnosti:"</item>
+		<item>"Avtor:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles lahko prikazuje eno ali dve Biblija več kot 20 jezikov ob istem času. Z TTS motorji opremljena, lahko slišite vsebino dveh jezikih nikamor brez prenesete vse medije dlje. Z učinkovito shranjevanje podatkov, se odziva zelo hitro na vaše multi-prst kretnje."</item>
+		<item>"&lt;u&gt; 1.1 (2013_06). &lt;/ u&gt; &lt;br/&gt; * Začasna rešitev za telefone brez gumba MENU strojne opreme, ki jih vsebujejo 4 slikovne gumbe na glavnem prikazu &lt;br/&gt; &lt;u&gt; 1.0 (2013_05) : &lt;/ u&gt; &lt;br/&gt; * maksimalno 2 Izbirne bibles prikazani v verzih redu; br * pri večini 2 TTS omogočen za izbrane Biblij; &lt;br/&gt; * Preproste geste, naj podprejo ukrepe, kot so Zoom-in/out , Page-down/up, Naprej / Nazaj, poglavja / knjige itd; br * Random dostopna za shranjevanje podatkov, ki omogočajo hiter odziv in nizko pomnilnika odtis; br * Osnovna različica prenos in upravljanje."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William Jiang &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"Vir Biblij:"</item>
+        <item>"Podprti jeziki:"</item>
+        <item>"Naložite biblije:"</item>
+        <item>"Uvozna biblije:"</item>
+		<item>"Uredi biblije:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"Podatki iz AloudBibles so zbrani iz besedilne datoteke na ugotovljene v projektu Zefania datotek interneta in Osis."</item>
+        <item>"Lahko prenesete Biblija naslednjih jezikih: arabskem &lt;br/&gt; (العربية), azerbajdžanski (Azerbajdžanske), bolgarski (български), Češka (čeština), German (Deutsch) Greek (Ελληνικά), angleščina (angleščina), Spanish (Español ), Finska (Suomi), francoščina (français) Hebrew (עברית) Hungarian (Magyar), Italian (Italiano) Korean (한국어), Latinska (Latin), Maori (Maori) Dutch (Nederlands), filipinski jezik ( Filipinski Language), portugalščina (Português) Romanian (Română) Ruščina (русский), Albanian (Albanian), Švedska (Svenska) Thai (ไทย) Tagalog (Tagalog), vietnamski (Tiếng Việt), Kitajski (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) Pritisnite gumb MENU, &lt;br/&gt; 2) Kliknite \"Download\", br 3) Pritisnite \"+\" gumb na desni strani posebne različice; &lt;br/&gt; 4) Kliknite »Potrdi« za pogovorno okno za zagon; &lt;br/&gt; 5), lahko prekličete onging prenos naloge s klikom na tipko \"-\"."</item>
+		<item>"1) Obisk &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt;, da prenesete zip različice; &lt;br/&gt; 2) Razen prenesene datoteke zip za vsako mapo vašega sdcard; &lt;br/&gt; 3) Pritisnite gumb MENU, &lt;br/&gt; 4) Kliknite \"Uredi biblije\", br 5) Pritisnite \"Import lokalna datoteka\" pod oknom; &lt;br / &gt; 6) Izberite zip datoteko iz sdcard."</item>
+		<item>"1) Pritisnite gumb MENU, &lt;br/&gt; 2) Kliknite na \"Ugodnost\"; &lt;br/&gt; 3) Kliknite prvi seznam drop-down in izberite glavno delo; &lt;br/&gt; 4) Če želite, lahko preverite, \"Izberite sekundarna dela: \". in izberite srednjo eno, da se prikaže, ali ga lahko počistite, da se prikaže samo eno delo &lt;br/&gt; 5) Nazadnje, kliknite undermost» Potrdi «, da so odločitve začel veljati."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"Na dno / vrh strani:"</item>
+        <item>"Zoom In / Out:"</item>
+        <item>"Na naslednjo / prejšnjo knjigovodsko / poglavja:"</item>
+		<item>"Stran dol / gor:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"Dva prsta dotikajo screean, potegnite oba dol / gor na dno / vrh strani oz."</item>
+        <item>"Z dvema prstoma dotika na zaslonu, da bi jih premaknili bi towarding / odhajajo povzroči zmanjšanje velikosti pisave ali povečanje oz."</item>
+		<item>"Ko je prikazan indeks knjige, swipe-right/left vodi na prejšnjo / naslednjo knjigo respctively, ko se vsebina poglavja ogledov, swipe-right/left rezultati v prejšnje / naslednje poglavje."</item>
+		<item>"Obrniti stran dol / gor, uporabite en prst, da potegnete navzdol / navzgor oz."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Start / stop branje:"</item>
+        <item>"TTS nastavitev:"</item>
+        <item>"Get TTS motorji:"</item>
+        <item>"Branje vedenje:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Odprite poglavje in kliknite verz, da se začnejo pogovarjati, ponovno kliknite istega verza (izpostavila enega) rezultate v ustavi."</item>
+        <item>"1). Morate imeti ustrezne TTS (motorji) Besedilo v govor nameščene &lt;br/&gt; 2) MENU -&gt; nagnjenja: Preverite \"Omogoči TTS za ...\" na podlagi dela, ki ste ga izbrali, br 3) Kliknite pravico spinerju \"Izberite TTS\" in izberite pravega motorja po imenu. (Opomba: poskrbite, da motor ne podpiranje jezik dela, povezanega); \ n4) je lahko največ dva motorja aktivirajo, če imate omogočite sekundarnega dela."</item>
+		<item>"1) Iskanje «Google TTS\" in ga namestite omogočiti angleško, FRECH, nemško, špansko in italijansko; &lt;br/&gt; 2) Z iskanjem \"Ivona\" ali \"SVOX\", lahko najdete nekaj motorjev predvsem za zahodne jezike; &lt;br /&gt; 3) Za uporabnike Sumsang, z iskanjem \"Sumsang TTS\", lahko najdete APK namestiti podporo korejski, japonski in kitajski, br 4) kitajski uporabniki lahko iščejo \"Xunfei TTS\", da bi dobili APK podpreti kitajsko in angleščina. "</item>
+		<item>"MENU \"Ugodnost\": kliknite pravico spinerju \"Speak Mode« nastavite TTS storitev moda &lt;br/&gt; 1) \"nikoli\" rezultati v neprekinjenem branju vsebin; &lt;br/&gt; 2) \"EndOfBook\".: TTS bo ustavila do konca knjige, br 3) \"EndOfChapter\": ali bo TTS ustavi do konca poglavja; &lt;br/&gt; 4) \"takoj\": TTS bodo prenehali po branju izbrana . verz &lt;br/&gt; &lt;b&gt; OBVESTILO:. ko se izbrana dva TTS motorji, bodo prebrali alternativno &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

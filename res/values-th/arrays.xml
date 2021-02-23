@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"ที่ช้าที่สุด"</item>
+        <item>" ช้าลง"</item>
+        <item>"   ช้า"</item>
+        <item>" ปกติ"</item>
+        <item>"   รวดเร็ว"</item>
+        <item>" ได้เร็วขึ้น"</item>
+        <item>"ที่เร็วที่สุด"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"ต่ำที่สุด"</item>
+        <item>" ลดลง"</item>
+        <item>"   ต่ำ"</item>
+        <item>"ปกติ"</item>
+        <item>"  สูง"</item>
+        <item>"สูงกว่า"</item>
+        <item>"สูงสุด"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"ไม่เคย"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"ทันที"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"คุณสมบัติ:"</item>
+		<item>"ผู้แต่ง:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles สามารถแสดงหนึ่งหรือสองคัมภีร์มากกว่า 20 ภาษาในเวลาเดียวกัน กับเครื่องยนต์ TTS ติดคุณสามารถได้ยินเนื้อหาของทั้งสองภาษาได้ทุกที่โดยไม่ต้องดาวน์โหลดสื่อใด ๆ ได้อีกต่อไป กับการจัดเก็บข้อมูลที่มีประสิทธิภาพจะตอบสนองได้อย่างรวดเร็วมากท่าทางหลายนิ้วของคุณ"</item>
+		<item>"&lt;u&gt; 1.1 (2013_06). &lt;/ u&gt; &lt;br/&gt; * สารละลายชั่วคราวสำหรับโทรศัพท์มือถือโดยไม่ต้องกดปุ่มเมนูฮาร์ดแวร์โดยรวม 4 ปุ่มภาพบนหน้าจอหลัก &lt;br/&gt; &lt;br/&gt; &lt;u&gt; 1.0 (2013_05) : &lt;/ u&gt; &lt;br/&gt; * ที่มากที่สุดที่ 2 พระคัมภีร์เลือกแสดงในการสั่งซื้อกลอน; การกระทำ &lt;br/&gt; * ท่าทางง่ายๆในการสนับสนุนเช่น Zoom-in/out; &lt;br/&gt; * ที่มากที่สุด 2 TTS เปิดใช้งานสำหรับพระคัมภีร์เลือก , Page-down/up, ถัดไป / ก่อนบท / หนังสือและอื่น ๆ ; &lt;br/&gt; * การจัดเก็บข้อมูลที่สามารถเข้าถึงแบบสุ่มเพื่อให้ตอบสนองอย่างรวดเร็วและปล่อยหน่วยความจำต่ำ &lt;br/&gt; * พื้นฐานการดาวน์โหลดไฟล์และการจัดการ"</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; วิลเลียมเจียง &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"แหล่งที่มาของพระคัมภีร์:"</item>
+        <item>"ภาษาที่รองรับ:"</item>
+        <item>"ดาวน์โหลดพระคัมภีร์:"</item>
+        <item>"พระคัมภีร์นำเข้า:"</item>
+		<item>"จัดการคัมภีร์:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"ข้อมูล AloudBibles มีการเก็บรวบรวมจากแฟ้มข้อความบนอินเทอร์เน็ตและ OSIS ไฟล์ที่พบในโครงการแม"</item>
+        <item>"คุณสามารถดาวน์โหลดพระคัมภีร์ภาษาต่อไปนี้ &lt;br/&gt; อาหรับ (العربية) อาเซอร์ไบจัน (อาเซอร์ไบจัน) บัลแกเรีย (български) เช็ก (čeština), เยอรมัน (Deutsch), กรีก (Ελληνικά) ภาษาไทย (Thai), สเปน (español ), ฟินแลนด์ (ฟินแลนด์), ฝรั่งเศส (français), ฮิบรู (עברית), ฮังการี (ฮังการี), อิตาลี (Italiano), เกาหลี (한국어) ละติน (Latin) เมารี (เมารี) ดัตช์ (Nederlands) ฟิลิปปินส์ภาษา ( ภาษาฟิลิปปินส์), โปรตุเกส (português) โรมาเนีย (Română), รัสเซีย (русский) แอลเบเนีย (แอลเบเนีย), สวีเดน (Svenska), ไทย (ไทย), ตากาล็อก (ตากาล็อก), เวียดนาม (TiếngViệt) ภาษาจีน (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) กดปุ่ม MENU; &lt;br/&gt; 2) คลิก \"Download\"; &lt;br/&gt; 3) กดปุ่ม \"+\" ที่ด้านขวาของรุ่นที่เฉพาะเจาะจง; &lt;br/&gt; 4) คลิก \"ยืนยัน\" ของ โต้ตอบเพื่อเริ่มต้น &lt;br/&gt; 5) คุณสามารถยกเลิกงานดาวน์โหลด onging โดยคลิกที่ \"-\" ปุ่ม"</item>
+		<item>"1) การเยี่ยมชม &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt; เพื่อดาวน์โหลดรุ่นซิป; &lt;br/&gt; 2) บันทึกไฟล์ซิปที่ดาวน์โหลดมา ไปยังโฟลเดอร์ใด ๆ ของ sdcard ของคุณ &lt;br/&gt; 3) กดปุ่ม MENU; &lt;br/&gt; 4) คลิก \"จัดการคัมภีร์\"; &lt;br/&gt; 5) กด \"แฟ้มท้องถิ่นนำเข้า\" ภายใต้หน้าต่าง; br &lt;/ &gt; 6) เลือกไฟล์ซิปจาก sdcard ของคุณ"</item>
+		<item>"1) กดปุ่ม MENU; &lt;br/&gt; 2) คลิก \"ตั้งค่า\"; &lt;br/&gt; 3) คลิกแรกที่รายการแบบหล่นลงและเลือกงานหลัก; &lt;br/&gt; 4) เลือกที่คุณสามารถตรวจสอบ \"เลือก งานที่สอง: \"และเลือกหนึ่งที่สองที่จะแสดงหรือคุณสามารถยกเลิกการเลือกที่จะแสดงเพียงคนเดียวที่ทำงาน &lt;br/&gt; 5) สุดท้ายคลิก undermost.\" ยืนยัน \"เพื่อให้ตัวเลือกที่มีผลบังคับใช้"</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"ไปด้านล่างสุด / ด้านบนของหน้า:"</item>
+        <item>"Zoom In / Out:"</item>
+        <item>"ต่อไป / หน้าที่หนังสือ / บท:"</item>
+		<item>"หน้าเลื่อนลง / ขึ้น"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"สองนิ้วสัมผัส screean ปัดทั้งสองลง / ขึ้นไปที่ด้านล่าง / ด้านบนของหน้าตามลำดับ"</item>
+        <item>"ด้วยสองนิ้วสัมผัสบนหน้าจอให้ย้ายพวกเขา towarding / ออกจะส่งผลให้ลดขนาดตัวอักษรหรือเพิ่มขึ้นตามลำดับ"</item>
+		<item>"เมื่อดัชนีของหนังสือเล่มนี้ก็แสดงให้เห็น swipe-right/left นำไปสู่​​หนังสือเล่มก่อนหน้า / ถัด respctively; เมื่อเนื้อหาของบทที่ถูกมองว่าผล swipe-right/left ในหน้าที่ / บทต่อไป"</item>
+		<item>"เมื่อต้องการเปิดหน้าลง / ขึ้นใช้นิ้วเพียงนิ้วเดียวที่จะรูดลง / ขึ้นไปตามลำดับ"</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"เริ่ม / หยุดอ่าน:"</item>
+        <item>"การตั้งค่า TTS:"</item>
+        <item>"ได้รับเครื่องมือ TTS:"</item>
+        <item>"พฤติกรรมการอ่าน:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"เปิดบทร้อยกรองและคลิกที่จะเริ่มต้นพูดใหม่คลิกท่อนเดียวกัน (ไฮไลต์หนึ่ง) ผลในการหยุด"</item>
+        <item>"1.) คุณจะต้องมี TTS ที่เหมาะสม (ข้อความเป็นคำพูด) เครื่องยนต์ที่ติดตั้ง &lt;br/&gt; 2) เมนู -&gt; การตั้งค่า: ตรวจสอบ \"เปิดใช้งาน TTS เพื่อ ... \" ภายใต้การทำงานที่คุณเลือก; &lt;br/&gt; 3) คลิกขวาปั่นของ \"เลือก TTS\" และเลือกเครื่องมือที่เหมาะสมโดยใช้ชื่อ (หมายเหตุ: ให้แน่ใจว่าเครื่องยนต์ไม่ suport ภาษาของการทำงานที่เกี่ยวข้อง); \ n 4) สามารถมีได้สูงสุดสองเครื่องยนต์เปิดใช้งานถ้าคุณยังช่วยให้การทำงานของรอง"</item>
+		<item>"1) การค้นหา \"Google TTS\" และติดตั้งเพื่อให้สามารถใช้ภาษาอังกฤษ Frech, เยอรมัน, สเปนและอิตาลี; &lt;br/&gt; 2) โดยการค้นหา \"IVONA\" หรือ \"SVOX\" คุณสามารถหาเครื่องมือบางอย่างส่วนใหญ่เป็นภาษาตะวันตก; br &lt; /&gt; 3) สำหรับผู้ใช้ Sumsang, โดยการค้นหา \"TTS Sumsang\" คุณสามารถหาเอพีเคที่จะติดตั้งเพื่อสนับสนุนเกาหลี, ญี่ปุ่นและจีน &lt;br/&gt; 4) ผู้ใช้ภาษาจีนสามารถค้นหา \"Xunfei TTS\" เพื่อให้ได้เอพีให้การสนับสนุนจีน และภาษาอังกฤษ "</item>
+		<item>"เมนู \"ตั้งค่า\": คลิกขวาปั่นของ \"พูด Mode\" การตั้งแฟชั่นบริการ TTS &lt;br/&gt; 1) \"ไม่เคย\" ผลในการอ่านอย่างต่อเนื่องของเนื้อหา; &lt;br/&gt; 2) \"EndOfBook\". TTS จะหยุดโดยท้ายของหนังสือเล่มนั้น &lt;br/&gt; 3) \"EndOfChapter\": TTS จะหยุดในตอนท้ายของบท; &lt;br/&gt; 4) \"ทันที\": TTS จะหยุดหลังจากที่ได้อ่านที่เลือก . บทกวี &lt;br/&gt; &lt;b&gt; หมายเหตุ:. เมื่อเครื่องมือสอง TTS มีการเลือกที่พวกเขาจะอ่านหรือ &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

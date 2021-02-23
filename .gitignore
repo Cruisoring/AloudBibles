@@ -9,6 +9,7 @@
 
 # Java class files
 *.class
+.classpath
 
 # Generated files
 bin/
@@ -83,3 +84,6 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# Android Profiling
+*.hprof

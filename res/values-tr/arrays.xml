@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"En yavaş"</item>
+        <item>" Yavaş"</item>
+        <item>"   Yavaş"</item>
+        <item>" Normal"</item>
+        <item>"   Hızlı"</item>
+        <item>" Daha hızlı"</item>
+        <item>"Hızlı"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"En düşük"</item>
+        <item>" Alt"</item>
+        <item>"   Düşük"</item>
+        <item>"Normal"</item>
+        <item>"  Yüksek"</item>
+        <item>"Yükseköğretim"</item>
+        <item>"En yüksek"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Asla"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Hemen"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Özellikler:"</item>
+		<item>"Yazar:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles aynı zamanda 20 dilde bir veya iki bibles görüntüleyebilir. TTS motorları donanımlı ile, herhangi bir medya artık indirmek olmadan her yerde iki dil içeriğini duyabiliyorum. Etkin veri depolama ile, multi-parmak jestleri son derece hızlı yanıt verir."</item>
+		<item>"&lt;u&gt; 1.1 (2013_06):. &lt;/ u&gt; &lt;br/&gt; * tarafından donanım MENU düğmesi olmayan telefonlar için geçici çözüm ana görünümünde 4 görüntü düğmeler içerir &lt;br/&gt; &lt;u&gt; 1,0 (2013_05) : &lt;/ u&gt; &lt;br/&gt; * ayet sırayla görüntülenen 2 seçilebilir İnciller en azından; seçilen İncil için etkin, en çok 2 TTS At &lt;br/&gt; *; zoom-in/out gibi &lt;br/&gt; * Basit jestleri desteklemek için eylem , Page-down/up, Sonraki / Önceki-bölüm / kitap vb; &lt;br/&gt; * hızlı tepki ve düşük bellek ayak izi sağlayacak Rastgele erişilebilir veri saklama; &lt;br/&gt; * Temel versiyon indir ve yönetimi."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William JIANG &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"İncil Kaynağı:"</item>
+        <item>"Desteklenen diller:"</item>
+        <item>"İncilleri indirin:"</item>
+        <item>"İthalat İnciller:"</item>
+		<item>"İncilleri Yönet:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"AloudBibles veri Zefania proje içinde bulunan Internet ve OSIS dosyaları metin dosyaları toplanır."</item>
+        <item>"Siz Aşağıdaki dillerden İncilleri indirebilirsiniz: Arapça &lt;br/&gt; (العربية), Azerice (Azerbaycan), Bulgarca (български), Çekçe (čeština), Almanca (Deutsch), Yunanca (Ελληνικά), İngilizce (İngilizce), İspanyolca (español ), Fince (Suomi), Fransızca (français), İbranice (עברית), Macar (Magyar)) italiano (İtalyanca, Korece (한국어), Latince (Latince), Maori (Maori), Flemenkçe (Nederlands), Filipin Dili ( Filipin Dili), Portekizce (Portekizce), Romence (Kullanıcı), Rusça (русский), Arnavutça (Arnavut), İsveççe (Svenska), Thai (ไทย), Tagalog (Tagalog), Vietnam (Tiếng Việt), Çince (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) MENU düğmesine basın; &lt;br/&gt; 2) \"Download\" üzerine tıklayın; belirli bir sürümünün sağ tarafında &lt;br/&gt; 3) basın \"+\" tuşuna; &lt;br/&gt; 4) ve \"Onayla\" tıklayın \"-\" butonuna &lt;br/&gt; 5) tıklatarak onging indirme görevi iptal edebilir; başlatmak için iletişim."</item>
+		<item>"1) &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt; sıkıştırılmış sürümlerini indirmek için ziyaret; &lt;br/&gt; 2) indirdiğiniz zip dosyaları kaydetme &lt;br/&gt; 3) MENU düğmesine basınız,; sdcard herhangi bir klasöre &lt;br/&gt; 4) tıklayın \"İncilleri yönet\"; &lt;br/&gt; 5) Basın pencerenin altında \"Import yerel dosya\"; &lt;br / &gt; 6) sizin sdcard zip dosyasını seçin."</item>
+		<item>"1) MENU düğmesine basın; &lt;br/&gt; 2) \"Tercihi\" üzerine tıklayın; &lt;br/&gt; 3) ilk açılan listesini tıklatın ve Birincil işi seçin; &lt;br/&gt; 4) İsteğe bağlı olarak, \"Seç kontrol edebilirsiniz ikincil iş:; seçimler yürürlüğe girmesi için Onayla \"\". ve görüntülemek için ikincil birini seçin veya yalnızca tek çalışmalarını görüntülemek için işaretini kaldırın olabilir &lt;br/&gt; 5) Son olarak, en alttaki tıklatın. \""</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"Sayfanın üst / alt için:"</item>
+        <item>"Zoom In / Out:"</item>
+        <item>"Bir sonraki / önceki kitap / bölüm:"</item>
+		<item>"Sayfa yukarı / aşağı:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"Screean dokunmadan iki parmak aşağı / sayfanın alt / üst kadar sırasıyla hem kaydırın."</item>
+        <item>"Iki parmak taşıyarak, ekranda dokunmadan çıkış / towarding yazı tipi boyutu azalmaya neden veya sırasıyla artacaktır."</item>
+		<item>"Bir kitabın indeksi gösterildiği zaman, swipe-right/left respctively sonraki / önceki kitabı açar, bir bölümün içeriği görülüyor, swipe-right/left sonuçları önceki / sonraki bölümde."</item>
+		<item>"Sayfayı aşağı / yukarı açmak için, sırasıyla aşağı / yukarı tokatlamak için bir parmağınızı kullanın."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Okuma başlatmak / durdurmak:"</item>
+        <item>"TTS ayarı:"</item>
+        <item>"TTS motorlarını alın:"</item>
+        <item>"Davranışı Okuma:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Bölüm açın ve konuşma başlatmak için ayet tıklayın AYNI ayetin yeniden tıklama durağı sonuçları (tek vurgulanan)."</item>
+        <item>". 1) yüklü uygun TTS (Text-to-speech) motorlar olması gerekir &lt;br/&gt; 2) MENÜ -&gt; Tercihi: \"için TTS Enable ...\" Kontrol Seçtiğiniz çalışmaları kapsamında; &lt;br/&gt; 3) \"seçin TTS\" bir eğiren hakkını tıklayın ve isim hakkı motorunu seçin. (Not: Motor ilişkili işin dilini desteğini olmadığından emin olun); \ n4) Eğer ikincil iş sağlayacak varsa aktive maksimum iki motor olabilir."</item>
+		<item>"1) \"Google TTS\" Arama ve, Almanca, İspanyolca, İngilizce ve İtalyanca Frech, etkinleştirmek için yüklemeniz &lt;br/&gt; 2) \"ivona\" veya \"SVOX\" arama yaparak, özellikle batı dilleri için bazı motorlarını bulabilirsiniz; &lt;br /&gt; 3) Sumsang kullanıcıları için, \"Sumsang tts\" arayarak, Korece, Japonca ve Çince destek yüklemek için APK bulabilirsiniz; &lt;br/&gt; 4) Çinli kullanıcılar \"Xunfei tts\" APK destek almak için Çince arama olabilir ve İngilizce. "</item>
+		<item>". MENU-\"Tercih\": TTS hizmet moda ayarlamak için \"Mode konuşun\" &lt;br/&gt; 1) içeriğinin sürekli okuma \"Never\" sonuçlar eğiren hakkını tıklayın; &lt;br/&gt; 2) \"EndOfBook\": TTS bir kitabın sonunda duracaktır; &lt;br/&gt; 3) \"EndOfChapter\": TTS bölümün sonunda duracaktır; &lt;br/&gt; 4) \"hemen\": TTS seçilen okuduktan sonra duracak . ayet &lt;br/&gt; &lt;b&gt; DİKKAT:. İki TTS motor seçildiğinde, bunlar alternatif okuyacak &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

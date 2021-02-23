@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"El más lento"</item>
+        <item>" Más lento"</item>
+        <item>"   Despacio"</item>
+        <item>" Normal"</item>
+        <item>"   Rápido"</item>
+        <item>" Más rápido"</item>
+        <item>"Fastest"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"Menor"</item>
+        <item>" Inferior"</item>
+        <item>"   Bajo"</item>
+        <item>"Normal"</item>
+        <item>"  Alto"</item>
+        <item>"Mayor"</item>
+        <item>"La más alta"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Nunca"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Inmediatamente"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Características:"</item>
+		<item>"Autor:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles pueden mostrar uno o dos biblias de más de 20 idiomas al mismo tiempo. Con los motores TTS equipadas, se puede escuchar el contenido de las dos lenguas en cualquier lugar sin descargar cualquier medio de comunicación más. Con el almacenamiento de datos eficiente, responde muy rápido a sus gestos multi-finger."</item>
+		<item>"&lt;u&gt; 1,1 (2013_06):. &lt;/ u&gt; &lt;br/&gt; * solución temporal para los teléfonos sin botón de hardware MENÚ incluye 4 botones de imagen en la vista principal &lt;br/&gt; &lt;u&gt; 1,0 (2013_05) : &lt;/ u&gt; &lt;br/&gt; * En la mayoría de los 2 biblias seleccionables que se muestran en orden inverso; &lt;br/&gt; * En la mayoría de los 2 TTS habilitados para biblias seleccionados; &lt;br/&gt; * Gestos sencillos para apoyar acciones como zoom-in/out , Page-down/up anterior / siguiente capítulo / libro y etc; &lt;br/&gt; * Random almacenamiento de datos accesible para permitir una respuesta rápida y de bajo consumo de memoria; * Versión básica &lt;br/&gt; descarga y gestión."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William Jiang &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"Fuente de Biblias:"</item>
+        <item>"Idiomas compatibles:"</item>
+        <item>"Descarga biblias:"</item>
+        <item>"Biblias de importación:"</item>
+		<item>"Gestione biblias:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"Los datos de AloudBibles se recoge a partir de archivos de texto en los archivos de Internet y OSIS se encuentran en proyecto Zefania."</item>
+        <item>"Puede descargar las biblias de los siguientes idiomas: &lt;br/&gt; Árabe (العربية), Azerbaiyán (Azerbaiyán), Búlgaro (български), Checo (Čeština), Alemán (Deutsch), Griego (Ελληνικά), Inglés (Inglés), Español (español ), Finlandés (Suomi), Francés (Français), Hebreo (עברית), Húngaro (magyar), Italiano (Italiano), Corea (한국어), América (América), los maoríes (Maori), Holandés (Nederlands), Filipinas Idioma ( Philippine Language), Portugués (Português), Rumano (Română), Ruso (русский), Albanés (Albania), Sueco (Svenska), tailandés (ไทย), tagalo (Tagalog), vietnamita (Tiếng Việt), Chino (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) Pulse el botón MENU; &lt;br/&gt; 2) Haga clic en \"Descargar\"; &lt;br/&gt; 3) Pulse el botón \"+\" en la parte derecha de la versión específica; &lt;br/&gt; 4) Haga clic en \"Confirmar\" del diálogo para iniciar; &lt;br/&gt; 5) Usted puede cancelar la tarea de descarga onging haciendo clic en el botón \"-\"."</item>
+		<item>"1) Visitar &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt; para descargar las versiones comprimidas; &lt;br/&gt; 2) Guarde los archivos zip descargados en cualquier carpeta de su sdcard; &lt;br/&gt; 3) Pulse el botón MENU; &lt;br/&gt; 4) Haga clic en \"Administrar biblias\"; &lt;br/&gt; 5) Pulse el botón \"Importar archivos local\" bajo la ventana; &lt;br / &gt; 6) Elija el archivo zip de su sdcard."</item>
+		<item>"1) Pulse el botón MENU; &lt;br/&gt; 2) Haga clic en \"Preferencias\"; &lt;br/&gt; 3) Haga clic en la primera lista desplegable y seleccione el trabajo principal; &lt;br/&gt; 4) Opcionalmente, se puede comprobar \"Elegir la obra secundaria: \". y seleccione la secundaria para mostrar, o bien, puede desactivar para mostrar una sola obra &lt;br/&gt; 5) Por último, haga clic en el humillados\" Confirmar \"para tomar las decisiones que entren en vigor."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"Para la parte inferior / superior de la página:"</item>
+        <item>"Zoom In / Out:"</item>
+        <item>"Al siguiente / anterior libro / capítulo:"</item>
+		<item>"Página abajo / arriba:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"Dos dedos que tocan la screean, deslizar tanto arriba / abajo a la parte inferior / superior de la página, respectivamente."</item>
+        <item>"Con dos dedos tocando en la pantalla, moviéndolas towarding / salida daría lugar a la disminución de tamaño de la fuente o aumentar respectivamente."</item>
+		<item>"Cuando se muestra el índice de un libro, swipe-right/left conduce al libro anterior / siguiente respctively, cuando el contenido de un capítulo es visto, resultados swipe-right/left en el capítulo anterior / siguiente."</item>
+		<item>"Para activar la página arriba / abajo, utilice un dedo para deslizar hacia abajo / hacia arriba respectivamente."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Iniciar / detener la lectura:"</item>
+        <item>"Ajuste de TTS:"</item>
+        <item>"Obtenga motores TTS:"</item>
+        <item>"La lectura de la conducta:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Abra el capítulo y haga clic en el verso para empezar a hablar, vuelva a hacer clic en el mismo versículo (resaltado) se traduce en una parada."</item>
+        <item>". 1) Es necesario tener TTS apropiados () motores de texto a voz instalados &lt;br/&gt; 2) MENU -&gt; Preferencias: Marque \"Enable TTS para ...\" en el marco del trabajo que ha seleccionado; &lt;br/&gt; 3) Haga clic en el derecho spinner de \"Choose TTS\" y seleccionar el motor derecho por su nombre. (Aviso: asegúrese de que el motor no suport el idioma del trabajo asociado); \ n4) No puede haber un máximo de dos motores activados si tiene que el trabajo secundario."</item>
+		<item>"1) Busca \"Google TTS\" e instalarlo para permitir Inglés, Frech, alemán, español e italiano; &lt;br/&gt; 2) Mediante la búsqueda \"IVONA\" o \"SVOX\", se pueden encontrar algunos motores, principalmente para los idiomas occidentales; &lt;br /&gt; 3) Para los usuarios Sumsang, mediante la búsqueda \"tts Sumsang\", usted puede encontrar APK instalar para apoyar coreano, japonés y chino; &lt;br/&gt; 4) los usuarios chinos podrían buscar \"Xunfei tts\" para obtener el APK para apoyar Chino e Inglés. "</item>
+		<item>"MENÚ \"Preferencia\": haga clic en el derecho spinner del &lt;br/&gt; 1) \"nunca\" resultados en lectura continua del contenido de \"Modo Speak\" para establecer la manera del servicio de TTS; &lt;br/&gt; 2) \"EndOfBook\".: el TTS se detendrá al final de un libro; &lt;br/&gt; 3) \"EndOfChapter\": el TTS se detendrán por el final de un capítulo; &lt;br/&gt; 4) \"Inmediatamente\": el TTS se detendrá después de leer el seleccionado . verso &lt;br/&gt; &lt;b&gt; AVISO:. cuando se seleccionan dos motores TTS, que van a leer, alternativamente, &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

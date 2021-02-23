@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"Slowest"</item>
+        <item>" Bil-mod"</item>
+        <item>"   Slow"</item>
+        <item>" Normali"</item>
+        <item>"   Fast"</item>
+        <item>" Faster"</item>
+        <item>"Mgħaġġlin"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"Irħas"</item>
+        <item>" Lower"</item>
+        <item>"   Baxxa"</item>
+        <item>"Normali"</item>
+        <item>"  Għolja"</item>
+        <item>"Ogħla"</item>
+        <item>"Ogħla"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Qatt"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Immedjatament"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Karatteristiċi:"</item>
+		<item>"Awtur:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles jistgħu juru wieħed jew tnejn Bibbji ta 'aktar minn 20 lingwa fl-istess ħin. B'magni TTS mgħammra, inti tista 'tisma l-kontenut ta' żewġ lingwi fi kullimkien mingħajr download kwalunkwe midja għal żmien itwal. Mal-ħażna tad-data effiċjenti, din tirrispondi estremament malajr biex ġesti multi-swaba tiegħek."</item>
+		<item>"&lt;u&gt; 1.1 (2013_06):. &lt;/ u&gt; &lt;br/&gt; * soluzzjoni temporanja għas-settijiet mingħajr buttuna MENU hardware mill jinkludu 4 buttuni immaġni fuq l-fehma ewlenija &lt;br/&gt; &lt;br/&gt; &lt;u&gt; 1.0 (2013_05) : &lt;/ u&gt; &lt;br/&gt; * Fil-maġġoranza 2 Bibbji jintgħażlu murija sabiex poeżiji; &lt;br/&gt; * Fil-maġġoranza 2 TTS ppermettiet għall Bibbji magħżula; &lt;br/&gt; * ġesti sempliċi biex tappoġġa azzjonijiet bħal Zoom-in/out , Page-down/up, Next / Preċedenti-kapitlu / book u eċċ; &lt;br/&gt; * aċċessibbli ħażna tad-data Random biex jippermettu reazzjoni mgħaġġla u footprint memorja baxx; &lt;br/&gt; download * verżjoni Bażiku &amp; ġestjoni."</item>
+		<item>"href href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William Jiang &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"Sors ta 'Bibbji:"</item>
+        <item>"Appoġġjati lingwi:"</item>
+        <item>"Download Bibbji:"</item>
+        <item>"Bibbji Importazzjoni:"</item>
+		<item>"Manage Bibbji:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"Id-data ta 'AloudBibles huwa miġbur minn fajls test fuq l-internet u OSIS fajls misjuba fil-proġett Zefania."</item>
+        <item>"Tista 'tniżżel Bibbji ta' lingwi li ġejjin: &lt;br/&gt; Għarbi (العربية), Ażerbajġan (Ażerbajġan), Bulgaru (български), Ċeka (čeština), Ġermaniż (Deutsch), Griega (Ελληνικά), Ingliż (Ingliż), l-Ispanjol (español ), Finlandiż (Suomi), Franċiż (français), Ebrajk (עברית), Ungeriża (Magyar), Taljana (Italiano), Korean (한국어), Latin (Latin), Maori (Maori), Olandiż (Nederlands), Filippini Lingwa ( Filippini Language), Portugiż (português), Rumen (română), Russu (русский), Albaniż (Albaniż), Svediża (svenska), Tajlandiż (ไทย), Tagalog (Tagalog), Vjetnamiż (Tiếng Việt), Ċiniż (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) Agħfas il-buttuna MENU; &lt;br/&gt; 2) Ikklikkja \"Download\"; &lt;br/&gt; 3) Press \"+\" buttuna fuq il-lemin tal-verżjoni speċifika; &lt;br/&gt; 4) Ikklikkja \"Ikkonferma\" tal- dialog biex tibda; &lt;br/&gt; 5) Tista 'tikkanċella l-kompitu download onging billi tikklikkja l-\"-\" buttuna."</item>
+		<item>"1) Visiting href href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt; li tniżżel il-verżjonijiet zipped; &lt;br/&gt; 2) Salv l-fajls zip jitniżżel għal kull folder ta sdcard tiegħek; &lt;br/&gt; 3) Agħfas il-buttuna MENU; &lt;br/&gt; 4) Ikklikkja \"Manage Bibbji\"; &lt;br/&gt; 5) Agħfas il-\"Importazzjoni fajl lokali\" taħt it-tieqa; &lt;br / &gt; 6) Agħżel il-fajl zip minn sdcard tiegħek."</item>
+		<item>"1) Agħfas il-buttuna MENU; &lt;br/&gt; 2) Ikklikkja \"Preferenza\"; &lt;br/&gt; 3) Ikklikkja l-ewwel lista drop-down u tagħżel l-ħidma primarja; &lt;br/&gt; 4) B'għażla, inti tista 'check \"Agħżel l-ħidma sekondarja: \". u jagħżlu l-waħda sekondarja għall-wiri, jew, inti tista 'uncheck it xogħol ta' display waħda biss &lt;br/&gt; 5) Fl-aħħarnett, ikklikkja l-undermost\" Ikkonferma \"sabiex jagħmlu għażliet jidħlu fis-seħħ."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"Biex Bottom / Quċċata tal-paġna:"</item>
+        <item>"Zoom Fil / Out:"</item>
+        <item>"Biex jmiss / preċedenti book / kapitlu:"</item>
+		<item>"Page down / up:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"Żewġ swaba jmissu l screean, swipe kemm down / sal-qiegħ / quċċata tal-paġna rispettivament."</item>
+        <item>"B'żewġ swaba jmissu fuq l-iskrin, li jiċċaqalqu minnhom towarding / jitilqu tirriżulta fit-tnaqqis daqs tat-tipa jew iżidu rispettivament."</item>
+		<item>"Meta l-indiċi ta 'ktieb huwa muri, swipe-right/left twassal għal ktieb preċedenti / jmiss respctively; meta l-kontenut ta' kapitolu huwa meqjusa, riżultati swipe-right/left fil kapitolu ta 'qabel / li jmiss."</item>
+		<item>"Biex jixgħel paġna down / up, jużaw finger waħda swipe isfel / 'l fuq rispettivament."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Bidu / tieqaf qari:"</item>
+        <item>"Setting TTS:"</item>
+        <item>"Get magni TTS:"</item>
+        <item>"Imġieba Qari:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Iftaħ il-kapitolu u kklikkja l-poeżiji biex tibda titkellem, ikklikkja mill-ġdid tal-poeżiji ISTESS (enfasizzati wieħed) jirriżulta stop."</item>
+        <item>"1.) Ikollok bżonn li jkollhom TTS xierqa (Test għall-diskors) magni installati &lt;br/&gt; 2) MENU -&gt; Preferenza: Iċċekkja \"Jippermettu TTS għal ...\" taħt il-ħidma inti magħżula; &lt;br/&gt; 3) Ikklikkja fuq il-lemin spinner ta '\"Agħżel TTS\" u agħżel il-magna dritt b'isimhom. (Avviż: kun żgur li l-magna ma suport-lingwa tal-ħidma assoċjati); \ N4) Jista 'jkun hemm massimu ta' żewġ magni attivat jekk għandek jippermettu l-ħidma sekondarja."</item>
+		<item>"1) Tiftix \"Google TTS\" u tinstallahom li jippermettu Ingliż, Frech, Ġermaniż, Spanjol u Taljan; &lt;br/&gt; 2) Permezz ta 'tiftix \"IVONA\" jew \"SVOX\", inti tista' ssib uħud mill-magni prinċipalment għal lingwi tal-Punent; &lt;br /&gt; 3) Għall-utenti Sumsang, mill-tiftix \"TTS Sumsang\", inti tista 'ssib APK biex jinstallaw għall-appoġġ Korean, Ġappuniżi u Ċiniżi; &lt;br/&gt; 4) l-utenti Ċiniżi jista' tfittxija \"Xunfei TTS\" biex tikseb l-APK għall-appoġġ Ċiniż u l-Ingliż. "</item>
+		<item>"MENU-\"Preferenza\": ikklikkja-dritt spinner tal-\"Speak Modalità\" li tiffissa l-moda servizz TTS &lt;br/&gt; 1) \"qatt\" riżultati fil-qari kontinwu tal-kontenut; &lt;br/&gt; 2) \"EndOfBook\".: il TTS se tieqaf sa l-aħħar ta 'ktieb; &lt;br/&gt; 3) \"EndOfChapter\": il TTS se tieqaf sa l-aħħar ta' kapitolu; &lt;br/&gt; 4) \"Immedjatament\": il TTS se tieqaf wara l-qari l-magħżula . AVVIŻ poeżiji &lt;br/&gt; &lt;b&gt;:. meta engines żewġ TTS jiġu magħżula, dawn se taqra alternattivament &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

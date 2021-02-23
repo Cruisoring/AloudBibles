@@ -1,0 +1,78 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.alouder.bibles"
+    android:versionCode="3"
+    android:versionName="1.2" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    
+    <application
+        android:name="com.alouder.bibles.activities.AloudBibleApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AloudTheme.FullScreen" >
+        <activity
+	        android:name="com.alouder.bibles.activities.LogoActivity"
+	        android:noHistory="true"
+	        android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.BooksActivity"
+            android:text="@string/list_books" >            
+        </activity>
+        <activity
+            android:name=".activities.ManageWorksActivity"
+            android:theme="@style/AloudTheme"
+            android:text="@string/app_name" >            
+        </activity>
+        <activity
+            android:name=".activities.DownloadActivity"
+            android:theme="@style/AloudTheme"
+            android:text="@string/app_name" >            
+        </activity>
+        <activity
+            android:name=".activities.HelpActivity"
+            android:theme="@style/AloudTheme"
+            android:text="@string/app_name" >            
+        </activity>
+        <activity
+            android:name=".activities.PreferenceActivity"
+            android:theme="@style/AloudTheme"
+            android:text="@string/preference" >
+        </activity>
+        <activity
+            android:name=".activities.PreferenceOldActivity"
+            android:theme="@style/AloudTheme"
+            android:text="@string/preference" >
+        </activity>
+        <activity
+            android:name=".activities.ChapterActivity"
+            android:text="Chapters" >
+        </activity>
+        <activity
+            android:name=".activities.VersesActivity"
+            android:text="Content" >
+        </activity>
+
+        <provider
+            android:name="com.alouder.bibles.data.BiblesContentProvider"
+            android:authorities="com.alouder.bibles.data.provider" />
+
+        <service
+            android:name="com.alouder.bibles.text2speech.TtsService"
+            android:enabled="true"
+            android:label="@string/app_name" />
+        
+    </application>
+
+</manifest>

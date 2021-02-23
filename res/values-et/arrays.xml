@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"Aeglaseim"</item>
+        <item>" Aeglasem"</item>
+        <item>"   Aeglane"</item>
+        <item>" Tavaline"</item>
+        <item>"   Kiire"</item>
+        <item>" Kiiremini"</item>
+        <item>"Kiireim"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"Madalaim"</item>
+        <item>" Madalam"</item>
+        <item>"   Madal"</item>
+        <item>"Tavaline"</item>
+        <item>"  Kõrge"</item>
+        <item>"Kõrgem"</item>
+        <item>"Kõrgeim"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Mitte kunagi"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Kohe"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Omadused:"</item>
+		<item>"Autor:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles kuvada üks või kaks Piibleid üle 20 keeles korraga. Mis TTS mootorid varustatud, et sa kuuled sisu kaks keeles kuskil ilma allalaadimist tahes meedias enam. Tõhusa andmete ladustamine, see vastab väga kiiresti oma mitme sõrme žeste."</item>
+		<item>"&lt;u&gt; 1,1 (2013_06): &lt;/ u&gt; &lt;br/&gt; * ajutine lahendus telefone ilma riistvara MENU nupu sisaldama 4 pilti nuppe põhiaknas. &lt;br/&gt; &lt;br/&gt; &lt;u&gt; 1,0 (2013_05) &lt;/ u&gt; &lt;br/&gt; * Kõige 2 valitavat bibles kuvatakse vastupidises järjekorras; &lt;br/&gt; * Kõige 2 TTS lubatud valitud bibles; &lt;br/&gt; * Simple žeste toetavad meetmed nagu Zoom-in/out , Page-down/up, Järgmisele / eelmisele-grupi / raamat ja jne; &lt;br/&gt; * Random kättesaadav andmete säilitamise, mis võimaldavad kiiret reageerimist ja madal mälukasutus; &lt;br/&gt; * Basic versiooni allalaadimiseks ja haldamiseks."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William Jiang &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"Allikas bibles:"</item>
+        <item>"Toetatud keeled:"</item>
+        <item>"Lae bibles:"</item>
+        <item>"Import bibles:"</item>
+		<item>"Manage bibles:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"Andmed AloudBibles kogutakse tekstifaile Internetist ja OSIS failid leitud Zefania projekti."</item>
+        <item>"Võite alla laadida piiblid järgmistes keeltes: &lt;br/&gt; Arabic (العربية) Aserbaidžaani (Aserbaidžaani), Bulgaaria (български), Tšehhi (čeština), saksa (Deutsch), kreeka (Ελληνικά), Inglise (English), hispaania (español ), Soome (Suomi) Prantsuse (Français) Hebrew (עברית) Hungarian (magyar), itaalia (italiano) Korean (한국어), ladina (ladina) Maoori (Maori), Hollandi (Nederlands), Filipiini Keel ( Filipiinide Language), portugali (português), rumeenia (română), vene (русский) Albaania (Albaania), Swedish (Svenska) Thai (ไทย) Tagalog (Tagalog) Vietnamese (Tiếng Việt), Hiina (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) Vajutage nuppu MENU, &lt;br/&gt; 2) Vajuta \"Download\" &lt;br/&gt; 3) Vajuta \"+\" nuppu paremal pool konkreetse versiooni &lt;br/&gt; 4) Vajuta \"Kinnita\" kohta dialoog alustada; &lt;br/&gt; 5) saab tühistada onging download ülesanne klõpsates \"-\" nuppu."</item>
+		<item>"1) Külas &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge'i &lt;/ a&gt; laadida kokkupakitud versioonid; &lt;br/&gt; 2) Salvesta allalaetud zip faili iga kausta oma sdcard; &lt;br/&gt; 3) Vajutage nuppu MENU, &lt;br/&gt; 4) Klõpsake \"Halda bibles\" &lt;br/&gt; 5) Vajuta \"Import kohalik fail\" akna all; &lt;br / &gt; 6) Vali zip fail oma sdcard."</item>
+		<item>"1) Vajutage nuppu MENU, &lt;br/&gt; 2) Vajuta \"eelistus\" &lt;br/&gt; 3) Vajuta kõigepealt rippmenüüst ja valige esmane töö; &lt;br/&gt; 4) Soovi korral võite vaadata \"Vali teisese töö \"ja valida teisejärguline näidata või saate lülita see näidata ainult ühe töö. &lt;br/&gt; 5) Lõpuks klõpsa undermost\" Kinnita \", et teha valikuid jõustunud."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"Algusesse / üles:"</item>
+        <item>"Zoom In / Out:"</item>
+        <item>"Järgmise / eelmise raamat / peatükk:"</item>
+		<item>"Lehekülg üles / alla:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"Kaks sõrmed puudutavad screean Libistage mõlemad üles / alt / lehekülje ülaosas vastavalt."</item>
+        <item>"Kahe sõrmega ekraani puudutamisel, liigutades neid towarding / lahkuvate tooks kirjasuuruse vähendada kui ka suurendada vastavalt."</item>
+		<item>"Kui indeks raamat on näidanud, swipe-right/left viib eelmise / järgmise raamatu respctively; kui sisu peatükis vaadeldakse, swipe-right/left tulemusi eelmise / järgmise peatüki."</item>
+		<item>"Pöörduda lehekülg üles / alla, kasutage ühte sõrme kaevukook alla / ülespoole vastavalt."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Start / Stop lugemine:"</item>
+        <item>"TTS seadistus:"</item>
+        <item>"Hangi TTS mootorid:"</item>
+        <item>"Lugemine käitumine:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Avage grupp ja klõpsake salm alustada öeldes, re-click sama salm (märgistub) toob Stop."</item>
+        <item>"1) Sa pead olema sobiv TTS (Text-to-kõne) mootorid paigaldatakse. &lt;br/&gt; 2) MENU -&gt; eelistus: Saate \"Luba TTS jaoks ...\" alusel töö valisite; &lt;br/&gt; 3) Vajuta vurr paremal \"Vali TTS\" ja valida õige mootori nimepidi. (Märkus: veenduge, et mootor ei suport keeles töö on seotud); \ n4) Ei saa olla maksimaalselt kaks mootorit aktiveeritud, kui teil on võimalik teisene töö."</item>
+		<item>"1) Otsin \"Google TTS\" ja paigaldada see, mis võimaldab inglise, Frech, saksa, hispaania ja itaalia keeles; &lt;br/&gt; 2) otsides \"Ivona\" või \"SVOX\", leiad mõned mootorid peamiselt Lääne keeltes; &lt;br /&gt; 3) Sumsang kasutajate otsides \"Sumsang TTS\", leiad APK paigaldada toetada Korea, Jaapani ja Hiina; &lt;br/&gt; 4) hiina kasutajad võivad otsida \"Xunfei TTS\" saada APK toetada Hiina ja inglise keeles. "</item>
+		<item>"MENU \"eelistus\" kliki vurr õigus \"Räägi Mode\" seada TTS teenust mood. &lt;br/&gt; 1) \"Mitte kunagi\" tulemuste pidev lugemine sisu; &lt;br/&gt; 2) \"EndOfBook\": TTS peatub lõpuks raamat; &lt;br/&gt; 3) \"EndOfChapter\": TTS peatub lõpuks peatükk; &lt;br/&gt; 4) \"Kohe\": TTS peatub pärast lugemist valitud salm. &lt;br/&gt; &lt;b&gt; TEADE: kui kaks TTS mootorid on valitud, nad ei loe vaheldumisi. &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

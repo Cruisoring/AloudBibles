@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"Le plus lent"</item>
+        <item>" Plus lent"</item>
+        <item>"   Lentement"</item>
+        <item>" Normal"</item>
+        <item>"   Rapide"</item>
+        <item>" Plus rapide"</item>
+        <item>"Le plus rapide"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"Le plus bas"</item>
+        <item>" Baissez"</item>
+        <item>"   Faible"</item>
+        <item>"Normal"</item>
+        <item>"  Haut"</item>
+        <item>"Supérieur"</item>
+        <item>"Le plus haut"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Jamais"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Immédiatement"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Caractéristiques:"</item>
+		<item>"Auteur:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles peuvent afficher un ou deux bibles de plus de 20 langues dans le même temps. Avec les moteurs TTS équipées, vous pouvez entendre le contenu de deux langues à n'importe où sans téléchargement des médias plus longtemps. Avec le stockage de données efficace, il répond très rapidement à vos gestes multi-doigts."</item>
+		<item>"&lt;u&gt; 1.1 (2013_06):. &lt;/ u&gt; &lt;br/&gt; * solution temporaire pour les combinés sans bouton MENU matériel par comprend 4 boutons d'image sur l'écran principal &lt;br/&gt; &lt;u&gt; 1.0 (2013_05) : &lt;/ u&gt; &lt;br/&gt; * Dans la plupart des bibles 2 sélectionnables affichées dans l'ordre des vers; &lt;br/&gt; * Dans la plupart des 2 TTS permis de bibles sélectionnés; &lt;br/&gt; * Des gestes simples pour soutenir les actions comme Zoom-in/out , Page-down/up, Suivant / Précédent-chapitre / livre et etc; &lt;br/&gt; * stockage de données accessible au hasard pour permettre une réaction rapide et à faible empreinte mémoire; &lt;br/&gt; * Version de base téléchargement et la gestion."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William JIANG &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"Source de bibles:"</item>
+        <item>"Langues supportées:"</item>
+        <item>"Télécharger bibles:"</item>
+        <item>"bibles d'importation:"</item>
+		<item>"Gérer bibles:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"Les données sont collectées de AloudBibles partir de fichiers texte sur les fichiers Internet et OSIS trouvés dans le projet Zefania."</item>
+        <item>"Vous pouvez télécharger bibles des langues suivantes: arabe &lt;br/&gt; (العربية), l'Azerbaïdjan (Azerbaïdjan), bulgare (български), tchèque (čeština), Allemand (Deutsch), grec (Ελληνικά), Anglais (English), Espagnol (español ), le finnois (suomi), français (français), l'hébreu (עברית), hongrois (magyar), italien (italiano), coréen (한국어), latin (latin), les Maoris (Maori), Néerlandais (Nederlands), Philippines Langue ( Philippines Langue), portugais (português), roumain (română), russe (русский), albanais (Albanie), suédois (Svenska), Thai (ไทย), le tagalog (Tagalog), vietnamienne (Tiếng Việt), chinois (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) Appuyez sur la touche MENU; &lt;br/&gt; 2) Cliquez sur \"Télécharger\"; &lt;br/&gt; 3) Appuyez sur le bouton \"+\" sur le côté droit de la version spécifique; &lt;br/&gt; 4) Cliquez sur \"Valider\" de la dialogue pour démarrer; &lt;br/&gt; 5) Vous pouvez annuler la tâche de téléchargement onging en cliquant sur le bouton «-»."</item>
+		<item>"1) Visite &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt; pour télécharger les versions zippées; &lt;br/&gt; 2) Sauvegardez les fichiers zip téléchargés à n'importe quel dossier de votre carte SD; &lt;br/&gt; 3) Appuyez sur la touche MENU; &lt;br/&gt; 4) Cliquez sur \"Gérer bibles\"; &lt;br/&gt; 5) Appuyez sur le «fichier local Importer\" sous la fenêtre; &lt;br / &gt; 6) Choisissez le fichier zip de votre carte SD."</item>
+		<item>"1) Appuyez sur la touche MENU; &lt;br/&gt; 2) Cliquez sur \"Préférences\"; &lt;br/&gt; 3) Cliquez sur la première liste déroulante et sélectionnez le travail principal; &lt;br/&gt; 4) En option, vous pouvez cocher la case «Choisir le travail secondaire: \". et sélectionnez le secondaire à afficher, ou, vous pouvez décocher pour afficher un seul travail &lt;br/&gt; 5) Enfin, cliquez sur le undermost\" Confirmer \"pour faire les choix entrent en vigueur."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"En bas / en haut de la page:"</item>
+        <item>"Zoom avant / arrière:"</item>
+        <item>"Pour la prochaine précédente livre / chapitre /:"</item>
+		<item>"Page vers le bas / haut:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"Deux doigts touchant la screean, passez à la fois vers le bas / vers le haut vers le bas / haut de la page respectivement."</item>
+        <item>"Avec deux doigts de toucher sur l'écran, en les déplaçant towarding / départ entraînerait la diminution de taille de police ou augmenter respectivement."</item>
+		<item>"Quand index d'un livre est illustré, swipe-right/left conduit à livre précédent / suivant respctively; lorsque le contenu d'un chapitre est consulté, les résultats swipe-right/left dans le chapitre précédent / suivant."</item>
+		<item>"Pour tourner la page haut / bas, utiliser un doigt pour faire glisser vers le bas / vers le haut respectivement."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Démarrer / arrêter la lecture:"</item>
+        <item>"réglage de la TTS:"</item>
+        <item>"Obtenez moteurs TTS:"</item>
+        <item>"Comportement de lecture:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Ouvrez le chapitre et cliquez sur le verset de commencer à parler, re-clic sur le même verset (souligné) un élément de butée."</item>
+        <item>". 1) Vous devez avoir TTS appropriées () moteurs Text-to-speech installés &lt;br/&gt; 2) MENU -&gt; Préférence: Cochez la case \"Activer TTS pour ...\" dans le cadre du travail que vous avez sélectionné; &lt;br/&gt; 3) Cliquez sur le droit de \"choisir TTS\" spinner et choisir le bon moteur par nom. (Remarque: assurez-vous que le moteur ne suport la langue du travail associé); \ n4) Il peut y avoir un maximum de deux moteurs activés si vous avez permettre le travail secondaire."</item>
+		<item>"1) la recherche \"Google TTS\" et l'installer pour permettre l'anglais, Frech, allemand, espagnol et italien; &lt;br/&gt; 2) par la recherche \"IVONA\" ou \"SVOX\", vous pouvez trouver quelques moteurs surtout pour les langues occidentales; &lt;br /&gt; 3) Pour les utilisateurs Sumsang, en recherchant \"tts Sumsang\", vous pouvez trouver APK à installer pour soutenir coréen, japonais et chinois; &lt;br/&gt; 4) les utilisateurs chinois pourraient chercher à obtenir l'APK pour soutenir chinois \"de Xunfei\" et en anglais. "</item>
+		<item>"MENU «Préférence»: cliquez sur le droit de la «Parle Mode\" pour régler le mode de service de TTS &lt;br/&gt; 1) «jamais» résultats en lecture en continu de la teneur en spinner; &lt;br/&gt; 2) \"EndOfBook\".: TTS cesseront à la fin d'un livre; &lt;br/&gt; 3) \"EndOfChapter\": les TTS cesseront à la fin d'un chapitre; &lt;br/&gt; 4) \"Immédiatement\": les TTS arrêter après avoir lu la sélectionnée . verset AVIS &lt;br/&gt; &lt;b&gt;:. lorsque les moteurs deux TTS sont sélectionnées, elles seront lues alternativement &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

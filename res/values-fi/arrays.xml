@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"Hitain"</item>
+        <item>" Hitaampi"</item>
+        <item>"   Hidas"</item>
+        <item>" Normaali"</item>
+        <item>"   Nopeasti"</item>
+        <item>" Nopeammin"</item>
+        <item>"Nopein"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"Alin"</item>
+        <item>" Alempi"</item>
+        <item>"   Alhainen"</item>
+        <item>"Normaali"</item>
+        <item>"  Korkea"</item>
+        <item>"Korkeampi"</item>
+        <item>"Korkein"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"Ei koskaan"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"Heti"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles:"</item>
+        <item>"Ominaisuudet:"</item>
+		<item>"Kirjoittaja:"</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles voi näyttää yhden tai kaksi raamattuja yli 20 kielellä samanaikaisesti. TTS moottorit varustettu, kuulet sisältöä samanaikaisesti kahta kieltä tahansa ilman ladata mitään mediaa enää. Tehokkaat aineisto varastointi, se reagoi erittäin nopeasti sinun monen sormen eleitä."</item>
+		<item>"&lt;u&gt; 1.1 (2013_06): &lt;/ u&gt; &lt;br/&gt; * Tilapäinen ratkaisu puhelimia ilman laitteisto-valikko-painike kuuluu 4 kuvaa painikkeilla päänäkymässä. &lt;br/&gt; &lt;u&gt; 1,0 (2013_05) : &lt;/ u&gt; &lt;br/&gt; * Korkeintaan 2 valittavissa raamattuja näytetään jakeessa järjestyksessä; &lt;br/&gt; * Korkeintaan 2 TTS käytössä Valittujen raamattuja; &lt;br/&gt; * Yksinkertainen eleet tukea toimia, kuten Zoom-in/out , Page-down/up, Seuraava / Edellinen-luku / kirja ja niin edelleen; &lt;br/&gt; * Random saatavilla tallennus mahdollistaa nopean reagoinnin ja vähän muistia; &lt;br/&gt; * Basic versio download &amp; hallintaa."</item>
+		<item>"&lt;a href=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt; William Jiang &lt;/ a&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"Lähde raamattuja:"</item>
+        <item>"Tuetut kielet:"</item>
+        <item>"Lataa raamattuja:"</item>
+        <item>"Import raamattuja:"</item>
+		<item>"Hallitse raamattuja:"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"Tiedot AloudBibles kerätään tekstitiedostoja Internetissä ja OSIS löytyneistä tiedostoista Zefania hankkeeseen."</item>
+        <item>"Voit ladata Raamatut seuraavia kieliä: &lt;br/&gt; Arabia (العربية), Azerbaidžanin (Azerbaidžanin), Bulgaria (български), Tsekki (čeština), saksa (Deutsch), Kreikka (Ελληνικά), Englanti (Englanti), espanja (español ), Suomi (suomi), ranska (français), heprea (עברית), Unkarin (Magyar), Italian (italiano), Korean (한국어), Latin (Latin), maori (maori), Hollanti (Nederlands), Filippiinien Kieli ( Filippiinien Language), Portugali (português), Romania (română), Venäjä (русский), Albanian (Albania), ruotsi (svenska), Thai (ไทย), Tagalog (Tagalog), Vietnam (Tiếng Việt), Kiina (中文)"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1) Paina menu-näppäintä; &lt;br/&gt; 2) Klikkaa \"Download\"; &lt;br/&gt; 3) Paina \"+\"-painiketta oikealla puolella tietyn version, &lt;br/&gt; 4) Klikkaa \"Vahvista\" ja dialogi alkaa; &lt;br/&gt; 5) Voit peruuttaa onging lataustehtävän klikkaamalla \"-\"-painiketta."</item>
+		<item>"1) Vierailevat &lt;a href=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForge &lt;/ a&gt; ladata zip versiot, &lt;br/&gt; 2) Tallenna ladattu zip-tiedostot mihin tahansa kansioon sdcard; &lt;br/&gt; 3) Paina menu-näppäintä; &lt;br/&gt; 4) Klikkaa \"Hallitse raamattuja\", &lt;br/&gt; 5) Paina \"Tuo paikallinen tiedosto\" ikkunan alla, &lt;br / &gt; 6) Valitse zip-tiedosto sdcard."</item>
+		<item>"1) Paina menu-näppäintä; &lt;br/&gt; 2) Klikkaa \"suuntautuneisuus\" &lt;br/&gt; 3) Klikkaa ensin pudotusvalikosta ja valitse ensisijainen tehtävämme, &lt;br/&gt; 4) Vaihtoehtoisesti voit tarkistaa \"Valitse toissijainen työ: \"ja valitse toissijaisessa näyttää, tai voit poistaa sen näyttämään vain yksi teos. &lt;br/&gt; 5) Klikkaa lopuksi undermost\" Vahvista \"tehdä valintoja tulevat voimaan."</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"Bottom / Sivun alkuun:"</item>
+        <item>"Zoom In / Out:"</item>
+        <item>"Seuraavaan / edelliseen kirja / luku:"</item>
+		<item>"Sivu alas / ylös:"</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"Kaksi sormea ​​koskettavat screean, pyyhkäise molemmat alas / ylös pohjaan / sivun yläreunassa vastaavasti."</item>
+        <item>"Kahdella sormella koskettamalla ruudulla, siirtämällä niitä towarding / lähtevät johtaisi fonttikoko vähentää tai lisätä vastaavasti."</item>
+		<item>"Kun indeksi kirja on esitetty, swipe-right/left johtaa edellinen / seuraava kirja respctively, kun pitoisuus luku on katsottu, swipe-right/left tuloksia edelliseen / seuraavaan lukuun."</item>
+		<item>"Kääntää sivu alas / ylös, käyttää yhdellä sormella pyyhkäisemällä alaspäin / ylöspäin vastaavasti."</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"Aloita / lopeta lukeminen:"</item>
+        <item>"TTS asetus:"</item>
+        <item>"Hanki TTS moottorit:"</item>
+        <item>"Lukeminen käyttäytyminen:"</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"Avaa luku ja klikkaa jae alkaa puhua, uudelleen napsautuksella sama jae (korostettuna) tuloksia Stop."</item>
+        <item>"1) Sinun täytyy olla asianmukaiset TTS (Text-to-speech) asennetut moottorit. &lt;br/&gt; 2)-valikko -&gt; suuntautuneisuus: Valitse \"Ota TTS for ...\" alle työn valitsemasi; &lt;br/&gt; 3) Klikkaa kiekkoa oikeus \"Valitse TTS\" ja valitse oikean moottorin nimen. (Huomautus: varmista, että moottori ei suport kieltä liittyvä työ); \ n4) voi olla enintään kaksi moottoria aktivoituu, jos sinulla on antaa toissijainen työtä."</item>
+		<item>"1) Searching \"Google TTS\" ja asenna se mahdollistaa Englanti, Frech, saksa, espanja ja italia, &lt;br/&gt; 2) Etsimällä \"IVONA\" tai \"SVOX\", voit löytää joitakin moottoreita lähinnä Länsi kielillä; &lt;br /&gt; 3) Sumsang käyttäjille, etsimällä \"Sumsang TTS\", voit löytää APK asentaa tukea Korean, Japanin ja Kiinan, &lt;br/&gt; 4) Kiinan käyttäjät voivat etsiä \"Xunfei tts\" saada APK tukemaan Kiinan ja Englanti. "</item>
+		<item>"MENU-\"suuntautuneisuus\": napsauta kiekkoa oikeassa \"Puhu Mode\" asettaa TTS palvelun muoti. &lt;br/&gt; 1) \"Ei koskaan\" johtaa jatkuvaan käsittelyyn sisällön &lt;br/&gt; 2) \"EndOfBook\": TTS pysähtyy kirjan loppu, &lt;br/&gt; 3) \"EndOfChapter\": TTS pysähtyy loppuun mennessä luku; &lt;br/&gt; 4) \"välittömästi\": TTS lopettaa lukemisen jälkeen valittu jae. &lt;br/&gt; &lt;b&gt; HUOMAUTUS: kun kaksi TTS moottorit valitaan, he lukevat vaihtoehtoisesti. &lt;/ b&gt;"</item>
+	</string-array>
+    
+</resources>

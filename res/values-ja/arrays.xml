@@ -1,0 +1,76 @@
+<resources>
+
+    <string-array name="speech_rate_options">
+        <item>"最も遅い"</item>
+        <item>"遅く"</item>
+        <item>"遅い"</item>
+        <item>"通常の"</item>
+        <item>"速い"</item>
+        <item>"速い"</item>
+        <item>"最速の"</item>
+    </string-array>
+    <string-array name="pitch_options">
+        <item>"最低"</item>
+        <item>"下段"</item>
+        <item>"低い"</item>
+        <item>"通常の"</item>
+        <item>"高い"</item>
+        <item>"より高い"</item>
+        <item>"最高"</item>
+    </string-array>
+    <string-array name="speak_mode_options">
+        <item>"決して"</item>
+        <item>"EndOfBook"</item>
+        <item>"EndOfChapter"</item>
+        <item>"すぐに"</item>
+    </string-array>
+    <string-array name="help_abouts_topics">
+        <item>"AloudBibles："</item>
+        <item>"特徴："</item>
+		<item>"著者："</item>
+    </string-array>
+    <string-array name="help_abouts_hints">
+        <item>"AloudBibles同時に20以上の言語の1つまたは2つの聖書を表示することができます。 TTSエンジンは装備を使用すると、もはや任意のメディアをダウンロードすることなく、任意の場所にある2つの言語の内容を聞くことができます。効率的なデータストレージでは、それはあなたのマルチフィンガージェスチャーに非常に迅速に応答します。"</item>
+		<item>"&lt;U&gt; 1.1（2013_06）：&lt;/ U&gt; &lt;B​​R/&gt; *によるハードウェアのMENUボタンのない携帯電話のための一時的な解決策は、メインビューに4画像ボタンを含む&lt;BR/&gt; &lt;BR/&gt; &lt;U&gt; 1.0（2013_05） ：詩順に表示&lt;/ U&gt; &lt;B​​R/&gt; *最大2選択可能な聖書、選択された聖書が有効になって&lt;BR/&gt; *最大2 TTS;ズームイン·アウトなどのアクションをサポートするための&lt;BR/&gt; *シンプルなジェスチャー、Page-down/up、前へ/次へ - チャプター/ブック等、迅速な対応と、低メモリフットプリントを可能にするため&lt;BR/&gt; *ランダムアクセス可能なデータ·ストレージ、&lt;BR/&gt; * Basicバージョンのダウンロードと管理。"</item>
+		<item>"もし、ごhref=\"mailto:aloudbibles@gmail.com?Subject=AloudBibles\"&gt;ウィリアム·江&lt;/ A&gt;"</item>
+	</string-array>
+    <string-array name="help_bibles_topics">
+        <item>"聖書の出所："</item>
+        <item>"サポートされている言語："</item>
+        <item>"聖書をダウンロードしてください。"</item>
+        <item>"輸入バイブル："</item>
+		<item>"聖書を管理します。"</item>
+    </string-array>
+    <string-array name="help_bibles_hints">
+        <item>"AloudBiblesのデータがZefaniaプロジェクトで見つかった、インターネット上のテキストフ​​ァイルやOSISファイルから収集されます。"</item>
+        <item>"あなたは、以下の言語の聖書をダウンロードすることができます：アラビア語（العربية）、アゼルバイジャン（アゼルバイジャン）、ブルガリア（български）、チェコ（チェコ）、ドイツ語（ドイツ）、ギリシャ（Ελληνικά）、英語（英語）、スペイン語（学習&lt;BR/&gt; ）イタリア語（）、フィンランド（表示suomi）、フランス語（バーゲン）、ヘブライ語（עברית）、ハンガリー（マジャール）語、イタリア語、韓国語（한국어）、ラテン（ラテン）、マオリ（マオリ）、オランダ（シティページ：）、フィリピン語（フィリピン語）、ポルトガル語（Português）、ルーマニア（いるRomână）、ロシア語（русский）、アルバニア（アルバニア）、スウェーデン語（Svenska）、タイ（ไทย）、タガログ語（タガログ語）、ベトナム語（TiếngViệtフリーライブカム）、中国語（中文）"<br/>Arabic(العربية), Azerbaijani(Azerbaijani), Bulgarian(български), Czech(čeština), German(Deutsch), Greek(Ελληνικά), English(English), Spanish(español), Finnish(suomi), French(français), Hebrew(עברית), Hungarian(magyar), Italian(italiano), Korean(한국어), Latin(Latin), Maori(Maori), Dutch(Nederlands), Philippine Language(Philippine Language), Portuguese(português), Romanian(română), Russian(русский), Albanian(Albanian), Swedish(svenska), Thai(ไทย), Tagalog(Tagalog), Vietnamese(Tiếng Việt), Chinese(中文)</item>
+        <item>"1）MENUボタンを押し、&lt;BR/&gt; 2）「ダウンロード」をクリックすると、特定のバージョンの右側&lt;BR/&gt; 3）を押して「+」ボタン、&lt;BR/&gt; 4）の「確認」をクリックしてください「 - 」ボタン&lt;BR/&gt; 5）をクリックすることでongingダウンロードタスクをキャンセルすることができます。開始するダイアログが表示されます。"</item>
+		<item>"1）もし、ごhref=\"https://sourceforge.net/projects/aloudbible/files/?source=navbar\"&gt; SourceForgeの&lt;/ a&gt;をzip圧縮版をダウンロードするために訪問。&lt;BR/&gt; 2）ダウンロードしたzipファイルを保存します&lt;BR/&gt; 3）MENUボタンを押し、、、あなたのSDカードの任意のフォルダに&lt;BR/&gt; 4）「聖書の管理」をクリックします。&lt;BR/&gt; 5）を押して、ウィンドウの下の「インポートローカルファイル \"; &lt;BR / &gt; 6）あなたのSDカードからzipファイルを選択します。"</item>
+		<item>"1）MENUボタンを押して、&lt;BR/&gt; 2）「環境設定」をクリックします。&lt;BR/&gt; 3）最初のドロップダウンリストをクリックして、主要な作業を選択します。&lt;BR/&gt; 4）オプションで、「選択をチェックすることができます二次作品： \"。と表示させ、二次1を選択して、あなたが1つだけの作品を表示するには、それをオフにすることができたり、&lt;BR/&gt; 5）最後に、最下層をクリックし、「選択肢が施行するための確認を」。"</item>
+	</string-array>
+    <string-array name="help_gestures_topics">
+        <item>"ページのトップ/ボトムへ："</item>
+        <item>"拡大/縮小："</item>
+        <item>"次/前の本/チャプターへ："</item>
+		<item>"ページアップ/ダウン："</item>
+    </string-array>
+    <string-array name="help_gestures_hints">
+        <item>"screeanに触れて二本の指は、ダウン/ページの下/上までそれぞれの両方をスワイプ。"</item>
+        <item>"画面にタッチする2本の指で、彼らが出発/ towarding移動すると、フォントサイズの減少をもたらすか、それぞれ増加するであろう。"</item>
+		<item>"書籍のインデックスがrespctively、次/前の本にswipe-right/leftリードを示しているとき、章の内容が表示されるとき、次/前の章で結果をswipe-right/left。"</item>
+		<item>"ページアップ/ダウンを有効にするには、それぞれ下向き/上向きスワイプ1本の指を使用しています。"</item>
+	</string-array>
+    <string-array name="help_voices_topics">
+		<item>"読書を停止/起動します。"</item>
+        <item>"TTSの設定："</item>
+        <item>"TTSエンジンを取得します。"</item>
+        <item>"読書行動："</item>
+    </string-array>
+    <string-array name="help_voices_hints">
+		<item>"章を開いて話して開始するために詩をクリックして、同じ詩の再クリックすると、停止中の結果（1を強調した）。"</item>
+        <item>"1）あなたがインストールされ、適切なTTS（テキスト読み上げ）のエンジンを持っている必要があり&lt;BR/&gt; 2）メニュー - &gt;環境設定：」のTTSを有効に...」をチェックあなたが選択した作業の下、&lt;BR/&gt; 3）」を選択し、TTS」のスピナーの右をクリックして、名前で右エンジンを選択します。 （注意：エンジンが関連する作業の言語を対応無しないことを確認してください）​​。\ N4）には、二次加工を可能にしている場合に活性化、最大2のエンジンがある場合もあります。"</item>
+		<item>"1）「GoogleのTTSを「検索と、ドイツ語、スペイン語、イタリア語、英語、FRECHを有効にするためにそれをインストールし、&lt;BR/&gt; 2）「IVONA」または「SVOX」を検索すると、主に西洋言語のためのいくつかのエンジンを見つけることができます。&lt;BR /&gt; 3）Sumsangユーザーの場合、「Sumsang TTS」を検索することで、あなたが韓国語、日本語、中国語をサポートするためにインストールするには、APKを見つけることができます。&lt;BR/&gt; 4）中国のユーザーは、「Xunfei TTS」中国人をサポートするためのAPKを取得するために検索することができますと英語。"</item>
+		<item>"MENU-「セクシャル」：TTSサービスのファッションを設定する「モード話す」のスピナー右をクリックして&lt;BR/&gt; 1）コンテンツの連続読み取りでは「絶対に」の結果、&lt;BR/&gt; 2）「EndOfBook」。： TTSは本の最後で停止します。&lt;BR/&gt; 3）「EndOfChapter」：TTSは章の終わりで停止します。&lt;BR/&gt; 4）「すぐに」：TTSは、選択を読んだ後に停止します。詩&lt;BR/&gt; &lt;B&gt;注意：2のTTSエンジンを選択したとき、彼らは別の方法として読み込まれます。&lt;/ B&gt;"</item>
+	</string-array>
+    
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.alouder.bibles"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/bookTitle"
+            style="@style/titleTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:shadowColor="@color/shadow"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:shadowRadius="3"
+            android:textIsSelectable="false" />
+
+        <com.alouder.bibles.widgets.EasyTableLayout
+            android:id="@+id/indexTable"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:gravity="center_horizontal|top"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            app:columnCount="8" >
+        </com.alouder.bibles.widgets.EasyTableLayout>
+
+        <com.alouder.bibles.widgets.NavigatorBar
+            android:id="@+id/navigator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            app:useNames="fullNameAll" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <ImageButton
+        android:id="@+id/imageButtonPreference"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/preference"
+        android:src="@drawable/technical_wrench" />
+
+    <ImageButton
+        android:id="@+id/imageButtonManage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/manage"
+        android:src="@drawable/file" />
+
+    <ImageButton
+        android:id="@+id/imageButtonDownload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/download"
+        android:src="@drawable/download" />
+
+    <ImageButton
+        android:id="@+id/imageButtonInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/help"
+        android:src="@drawable/info" />
+
+</LinearLayout>
